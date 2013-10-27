@@ -154,6 +154,8 @@ for row in reader:
 
 G = nx.Graph(mode="dynamic")
 
+newLinks = {}
+
 for link in links:
 
     weight = links[link]
@@ -187,6 +189,7 @@ for link in links:
             else:
                 targetGrowth.append((nodesGrowth[nodeTargetName][year],year,year+1))
 
+
     nodes[nodeTargetName]['growth'] = targetGrowth
 
 
@@ -204,7 +207,9 @@ for link in links:
             else:
                 linkGrowth.append((linksGrowth[link][year],year,year+1))
 
-    G.add_edge(nodeSourceName, nodeTargetName , weight = linkGrowth)
+    newLinks[link] = {'growth':linkGrowth}
+
+    G.add_edge(nodeSourceName, nodeTargetName , newLinks[link])
 
 nx.write_gexf(G, "companyUtilityNetworkGrowth.gexf")
 
