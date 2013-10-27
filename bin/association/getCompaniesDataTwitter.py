@@ -80,7 +80,7 @@ if __name__ == '__main__':
 
     db = connection['loquecrece']
 
-    collection = db['associations']
+    collection = db['associationsv2']
 
 
     auth = OAuthHandler(consumer_key, consumer_secret)
