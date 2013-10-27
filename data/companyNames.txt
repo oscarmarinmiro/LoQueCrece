@@ -2,7 +2,12 @@ Odesk
 Kiva 
 Athena Health
 Shutterfly
-AirBNB
+LinkedIN
+Netflix
+Facebook
+Yelp
+AirBNB (2008)
+Wikipedia
 Kickstarter
 ZipCar
 Evernote
@@ -17,25 +22,32 @@ Plos
 Crowdflower
 DeviantArt
 23AndMe
+Twitter
 Patientslikeme
 Shiply
 Skype
+Instragram
+Foursquare
+Pinterest
 Docstoc
 Khan Academy 
-BlaBlaCar
+Dropbox
+BlaBlaCar (2006)
 Arduino
 Couchsurfing
 Sparkfun
 37signals
+Android
 Whatsapp
 Ebay
 Makerbot
+Huffington Post
 Etsy
 Taskrabbit
 Fon 
 Quora
 Lendingclub
-Carpooling
+Carpooling.com
 Stack Overflow
 Outbrain
 We Transfer
