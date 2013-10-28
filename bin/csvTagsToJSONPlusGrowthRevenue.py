@@ -40,12 +40,10 @@ def getGrowthData(fileName):
         struct[company][2010] = int(row[3].replace(",","").replace(".",""))
         struct[company][2011] = int(row[4].replace(",","").replace(".",""))
         struct[company][2012] = int(row[5].replace(",","").replace(".",""))
-        struct[company][2013] = int(row[6].replace(",","").replace(".",""))
-
 
     return struct
 
-usersGrowth = getGrowthData("../data/Growth_experiment_users.csv")
+usersGrowth = getGrowthData("../data/Growth_experiment_revenue.csv")
 
 pprint.pprint(usersGrowth)
 
@@ -64,7 +62,7 @@ nodesGrowth = {}
 linksGrowth = {}
 
 FIRST_YEAR = 2008
-LAST_YEAR = 2013
+LAST_YEAR = 2012
 
 years = range(FIRST_YEAR, LAST_YEAR+1)
 
@@ -198,7 +196,7 @@ for link in links:
 
     G.add_edge(nodeSourceName, nodeTargetName , newLinks[link])
 
-nx.write_gexf(G, "companyUtilityNetworkGrowth.gexf")
+nx.write_gexf(G, "companyUtilityNetworkGrowthRevenue.gexf")
 
 
 
