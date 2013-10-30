@@ -107,6 +107,4 @@ for company in crowdDict:
 
     fileOut.write(",".join(myData)+"\n")
 
-    # fileOut.write(",".join([com]))
-
 fileOut.close()
