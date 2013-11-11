@@ -1,0 +1,72 @@
+"","Company","Description","Company.ID.Number","Crowd.Sourced","Centralized","Money","Property","Knowledge","Services","Media","Data","Relationships","Service","Market","Platform","Commons","Redistribution","Breaktrough","Producer"
+"1","Odesk","Global Job Market Place",2,1,0,0,0,1,1,0,0,0,0,1,0,0,1,0,1
+"2","Kiva ","P2P Lending Company",3,1,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0
+"3","Athena Health","Healthcare business services",4,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+"4","Shutterfly","Online Photo Service",5,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+"5","LinkedIN","Social Network For Professionals",6,1,0,0,0,1,0,1,1,1,0,0,1,0,0,1,0
+"6","Netflix","Online TV Service",7,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+"7","Facebook","Network site",8,1,0,0,0,0,0,1,1,1,0,1,0,0,0,0,1
+"8","Yelp","Online review platform",9,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1
+"9","AirBNB (2008)","Tourism / Hospitality",10,1,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0
+"10","Wikipedia","Digital Enclyclopedia ",11,1,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0
+"11","Kickstarter","Digital crowdfunding",12,1,0,1,0,0,0,0,0,1,0,0,1,0,1,0,0
+"12","ZipCar","Car Sharing Platform",13,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0
+"13","Evernote","Digital Notebook",14,1,0,0,0,1,0,1,0,0,1,0,1,0,0,1,1
+"14","Spotify","Online Music Service",15,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+"15","Salesforce","Cloudcomputing",16,1,0,0,0,0,0,0,0,1,1,0,1,0,0,1,0
+"16","Ancestry","For Profit Genealogy Company ",17,0,1,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+"17","Global Giving","Micro Credit Lending Club",18,1,0,1,0,0,0,0,0,0,0,1,0,0,1,0,1
+"18","Alpe d'Huzes","Charity Event",19,1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,0
+"19","Elance","Online platform for work",20,1,0,0,0,1,0,0,0,0,0,1,0,0,1,0,1
+"20","Survey Monkey","Survey Monkey",21,0,1,0,0,1,0,0,1,0,1,0,0,0,0,1,0
+"21","Plos","Open Source Journal",22,1,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0
+"22","Crowdflower","Online P2P task platform",23,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1
+"23","DeviantArt","Online artwork community",24,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,1
+"24","23AndMe","Provides rapid genetic testing",25,0,1,1,1,0,0,0,1,0,1,0,0,0,0,1,0
+"25","Twitter","Social Micro Blogging website",26,1,0,0,0,1,0,1,1,1,0,0,1,0,0,0,1
+"26","Patientslikeme","Platform people physical problems",27,1,0,0,0,1,0,0,1,1,0,1,0,0,0,0,1
+"27","Shiply","Transporting ",28,0,1,0,1,0,0,0,0,0,0,1,0,0,1,1,0
+"28","Skype","Online Communicating Platform",29,1,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0
+"29","Instragram","Photo Application",30,1,0,0,0,0,0,1,1,1,0,1,0,0,0,0,1
+"30","Foursquare","Locations Based Services",31,1,0,0,1,0,0,0,1,0,0,0,1,0,0,0,1
+"31","Pinterest","Photo-sharing website ",32,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,1
+"32","Docstoc","File Sharing Website",33,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+"33","Khan Academy ","Online education program",34,0,1,0,0,1,0,1,0,0,1,0,0,0,0,1,0
+"34","Dropbox","File Sharing Cloud",35,1,0,0,1,0,0,0,1,0,1,0,0,0,0,1,0
+"35","BlaBlaCar (2006)","Travelling / Mobility ",36,1,0,0,1,0,1,0,0,1,0,0,1,0,1,0,0
+"36","Arduino","OSHW project",37,1,0,0,0,1,1,0,0,0,0,0,1,1,0,0,1
+"37","Couchsurfing","Hospitality / Tourism",38,1,0,0,1,0,0,0,0,1,0,0,1,0,1,0,0
+"38","Sparkfun","OSHW webshop",39,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+"39","37signals","Web Application Company",40,1,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0
+"40","Android ","Application Platform",41,1,0,0,0,0,0,0,1,0,0,0,1,0,1,0,1
+"41","Whatsapp","Application ",42,1,0,0,0,0,0,1,1,1,0,1,0,0,0,1,0
+"42","Ebay","E-Commerce Website",43,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0
+"43","Makerbot","Desktop 3D printing",44,0,1,0,1,0,0,0,0,0,1,0,0,0,1,1,1
+"44","Huffington Post","Online News Aggregretor",45,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+"45","Etsy","E-Commerce Website",46,1,0,0,1,0,0,0,0,0,0,1,0,0,1,0,1
+"46","Taskrabbit","Online p2p platform",47,1,0,0,0,0,1,0,0,0,0,1,0,0,1,0,1
+"47","Fon ","""Flexible"" Wifi provider",48,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0
+"48","Quora","Questions and Answers",49,1,0,0,0,1,1,0,0,1,0,0,1,1,0,0,1
+"49","Lendingclub","P2P Lending Company",50,1,0,1,0,0,0,0,1,0,0,1,0,0,1,0,0
+"50","Carpooling.com","Ride Sharing",51,1,0,0,1,0,1,0,0,1,0,0,1,0,1,0,0
+"51","Stack Overflow","Questions and Answers",52,1,0,0,0,1,0,0,0,1,0,0,1,0,0,0,1
+"52","Outbrain","Content recommendation service",53,0,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+"53","We Transfer","Digital filesending website",54,1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0
+"54","Layar","Augmented Reality App",55,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0
+"55","Waze","Navigation Application",56,1,0,0,0,1,0,0,1,0,0,0,1,0,0,0,1
+"56","8Coupon","Location based deal collecter",57,0,1,0,1,0,0,0,0,0,1,0,0,0,0,1,0
+"57","Causes.com","Platform for social change",58,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1
+"58","Hootesuite","Social Media Dashboard",59,1,0,0,0,0,0,1,0,1,1,0,0,0,0,1,0
+"59","Change.org","Platform for social change",60,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,1
+"60","Guifinet","Free, Open, neutral wireless community network",61,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"61","Youtube","Video Sharing website ",62,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1
+"62","Research Gate","Online network for science and research",63,1,0,0,0,1,0,0,1,0,0,0,1,1,0,0,1
+"63","Baidu","Chinese search engine",64,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"64","TedX","Video Conference Website",65,1,0,0,0,1,0,1,0,0,0,0,1,1,0,0,1
+"65","Alibaba Group","Internet-based businesses with a mission to make it easy for anyone to buy or sell anywhere in the world",66,1,0,0,0,1,0,1,1,1,1,0,0,0,0,1,0
+"66","Meet Up","Facilitates off line group meetings",67,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+"67","Yammer","Enterprise social network",68,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,1
+"68","RenRen","Chinese social network forum",69,1,0,0,0,0,0,1,1,1,0,0,1,0,0,0,1
+"69","Crowdgather","Network of online, forum based communities",70,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,1
+"70","Quirky","",71,1,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1
+"71","Shapeways","",72,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1
