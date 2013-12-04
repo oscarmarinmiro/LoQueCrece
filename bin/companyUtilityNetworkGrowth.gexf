@@ -1,0 +1,1225 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="edge" mode="static">
+      <attribute id="4" title="growth" type="string" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="parentType" type="string" />
+      <attribute id="1" title="childType" type="string" />
+      <attribute id="2" title="type" type="string" />
+      <attribute id="3" title="growth" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Spotify" label="Spotify">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="7000000" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="10000000" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="15000000" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="20000000" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="24000000" />
+        </attvalues>
+      </node>
+      <node id="Evernote" label="Evernote">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="500000" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="2096030" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="6003130" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="20000000" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="41000000" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="65000000" />
+        </attvalues>
+      </node>
+      <node id="Global Giving" label="Global Giving">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="440000" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="790000" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="1340000" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="2270000" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="2270000" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="2270000" />
+        </attvalues>
+      </node>
+      <node id="Wikipedia" label="Wikipedia">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="342123000" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="414000000" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="454000000" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="500000000" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="500000000" />
+        </attvalues>
+      </node>
+      <node id="Alpe d&apos;Huzes" label="Alpe d&apos;Huzes">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="100" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="1300" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="4300" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="4661" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="8000" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="8000" />
+        </attvalues>
+      </node>
+      <node id="AirBNB (2008)" label="AirBNB (2008)">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="10000" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="25000" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="100000" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="300000" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="500000" />
+        </attvalues>
+      </node>
+      <node id="Human Resources:Property" label="Property">
+        <attvalues>
+          <attvalue for="0" value="Human Resources" />
+          <attvalue for="1" value="Property" />
+          <attvalue for="2" value="utility" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="690100" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="1385489" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="1751267" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="2859486" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="3397711" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="3870352" />
+        </attvalues>
+      </node>
+      <node id="Kiva " label="Kiva ">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="250000" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="584189" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="370837" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="457739" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="777946" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="1050587" />
+        </attvalues>
+      </node>
+      <node id="Capital:Assets" label="Assets">
+        <attvalues>
+          <attvalue for="0" value="Capital" />
+          <attvalue for="1" value="Assets" />
+          <attvalue for="2" value="utility" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="234778" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="7348200" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="10578684" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="15794081" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="21102689" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="25353858" />
+        </attvalues>
+      </node>
+      <node id="Kickstarter" label="Kickstarter">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="0" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="11130" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="27086" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="41765" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="41765" />
+        </attvalues>
+      </node>
+      <node id="Athena Health" label="Athena Health">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="9778" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="13200" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="13200" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="20824" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="25000" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="43858" />
+        </attvalues>
+      </node>
+      <node id="LinkedIN" label="LinkedIN">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="11900000" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="20000000" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="52000000" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="84000000" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="126000000" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="140000000" />
+        </attvalues>
+      </node>
+      <node id="Available Resources:Idle" label="Idle">
+        <attvalues>
+          <attvalue for="0" value="Available Resources" />
+          <attvalue for="1" value="Idle" />
+          <attvalue for="2" value="utility" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="16876112" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="376993189" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="468882451" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="540458755" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="613207400" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="639712352" />
+        </attvalues>
+      </node>
+      <node id="Ancestry" label="Ancestry">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="911112" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="1066000" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="1395000" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="1680673" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="2500000" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="2500000" />
+        </attvalues>
+      </node>
+      <node id="Facebook" label="Facebook">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="100000" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="700000" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="1500000" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="4000000" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="13000000" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="13000000" />
+        </attvalues>
+      </node>
+      <node id="Odesk" label="Odesk">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="50000" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="95000" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="200000" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="250000" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="540000" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="540000" />
+        </attvalues>
+      </node>
+      <node id="Salesforce" label="Salesforce">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="1100000" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="1700000" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="2100000" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="3000000" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="5800000" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="5800000" />
+        </attvalues>
+      </node>
+      <node id="Human Resources:Service" label="Service">
+        <attvalues>
+          <attvalue for="0" value="Human Resources" />
+          <attvalue for="1" value="Service" />
+          <attvalue for="2" value="utility" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="50100" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="96300" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="204300" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="254661" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="548000" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="548000" />
+        </attvalues>
+      </node>
+      <node id="Yelp" label="Yelp">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="15000000" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="25000000" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="41000000" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="66000000" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="86000000" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="108000000" />
+        </attvalues>
+      </node>
+      <node id="Human Resources:Data" label="Data">
+        <attvalues>
+          <attvalue for="0" value="Human Resources" />
+          <attvalue for="1" value="Data" />
+          <attvalue for="2" value="utility" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="16459890" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="369863419" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="479362297" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="569574322" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="690406711" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="728698210" />
+        </attvalues>
+      </node>
+      <node id="Human Resources:Relationship" label="Relationship">
+        <attvalues>
+          <attvalue for="0" value="Human Resources" />
+          <attvalue for="1" value="Relationship" />
+          <attvalue for="2" value="utility" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="14789000" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="23991000" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="57594000" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="93488000" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="146362000" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="160562000" />
+        </attvalues>
+      </node>
+      <node id="Capital:Money" label="Money">
+        <attvalues>
+          <attvalue for="0" value="Capital" />
+          <attvalue for="1" value="Money" />
+          <attvalue for="2" value="utility" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="690100" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="1385489" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="1751267" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="2859486" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="3397711" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="3870352" />
+        </attvalues>
+      </node>
+      <node id="Human Resources:Knowledge" label="Knowledge">
+        <attvalues>
+          <attvalue for="0" value="Human Resources" />
+          <attvalue for="1" value="Knowledge" />
+          <attvalue for="2" value="utility" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="28370890" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="390393230" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="514611330" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="625951497" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="756065000" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="816083858" />
+        </attvalues>
+      </node>
+      <node id="ZipCar" label="ZipCar">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="225000" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="325000" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="540484" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="673257" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="777689" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="810000" />
+        </attvalues>
+      </node>
+      <node id="Shutterfly" label="Shutterfly">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="2789000" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="3281000" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="4069000" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="5388000" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="7062000" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="7062000" />
+        </attvalues>
+      </node>
+      <node id="Available Resources:Libre" label="Libre">
+        <attvalues>
+          <attvalue for="0" value="Available Resources" />
+          <attvalue for="1" value="Libre" />
+          <attvalue for="2" value="utility" />
+          <attvalue end="2008-01-01" for="3" start="2007-01-01" value="13509778" />
+          <attvalue end="2009-01-01" for="3" start="2008-01-01" value="30809230" />
+          <attvalue end="2010-01-01" for="3" start="2009-01-01" value="70116330" />
+          <attvalue end="2011-01-01" for="3" start="2010-01-01" value="122020824" />
+          <attvalue end="2012-01-01" for="3" start="2011-01-01" value="192825000" />
+          <attvalue end="2013-01-01" for="3" start="2012-01-01" value="234843858" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Spotify" target="Available Resources:Idle">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="7000000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="10000000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="15000000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="20000000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="24000000" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="Spotify" target="Available Resources:Libre">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="7000000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="10000000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="15000000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="20000000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="24000000" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="Spotify" target="Capital:Assets">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="7000000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="10000000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="15000000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="20000000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="24000000" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="Evernote" target="Human Resources:Data">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="500000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="2096030" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="6003130" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="20000000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="41000000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="65000000" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="Evernote" target="Human Resources:Knowledge">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="500000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="2096030" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="6003130" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="20000000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="41000000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="65000000" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="Evernote" target="Available Resources:Libre">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="500000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="2096030" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="6003130" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="20000000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="41000000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="65000000" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="Global Giving" target="Available Resources:Idle">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="440000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="790000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="1340000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="2270000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="2270000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="2270000" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="Global Giving" target="Human Resources:Property">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="440000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="790000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="1340000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="2270000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="2270000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="2270000" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="Global Giving" target="Capital:Money">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="440000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="790000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="1340000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="2270000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="2270000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="2270000" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="Wikipedia" target="Human Resources:Data">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="342123000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="414000000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="454000000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="500000000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="500000000" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="Wikipedia" target="Human Resources:Knowledge">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="342123000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="414000000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="454000000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="500000000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="500000000" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="Wikipedia" target="Available Resources:Idle">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="342123000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="414000000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="454000000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="500000000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="500000000" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="Alpe d&apos;Huzes" target="Human Resources:Service">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="100" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="1300" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="4300" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="4661" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="8000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="8000" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="Alpe d&apos;Huzes" target="Human Resources:Property">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="100" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="1300" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="4300" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="4661" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="8000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="8000" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="Alpe d&apos;Huzes" target="Capital:Money">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="100" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="1300" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="4300" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="4661" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="8000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="8000" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="AirBNB (2008)" target="Available Resources:Idle">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="10000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="25000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="100000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="300000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="500000" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="AirBNB (2008)" target="Capital:Assets">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="10000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="25000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="100000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="300000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="500000" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="AirBNB (2008)" target="Human Resources:Relationship">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="10000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="25000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="100000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="300000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="500000" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="AirBNB (2008)" target="Human Resources:Property">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="10000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="25000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="100000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="300000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="500000" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="AirBNB (2008)" target="Capital:Money">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="10000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="25000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="100000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="300000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="500000" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="Human Resources:Property" target="Human Resources:Service">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="100" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="1300" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="4300" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="4661" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="8000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="8000" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="Human Resources:Property" target="Capital:Assets">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="10000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="25000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="100000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="300000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="500000" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="Human Resources:Property" target="Kickstarter">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="0" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="11130" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="27086" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="41765" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="41765" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="Human Resources:Property" target="Kiva ">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="250000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="584189" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="370837" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="457739" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="777946" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="1050587" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="Human Resources:Property" target="Human Resources:Data">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="250000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="584189" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="381967" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="484825" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="819711" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="1092352" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="Human Resources:Property" target="Available Resources:Idle">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="690000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="1384189" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="1746967" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="2854825" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="3389711" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="3862352" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="Human Resources:Property" target="Human Resources:Relationship">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="10000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="25000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="100000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="300000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="500000" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="Human Resources:Property" target="Human Resources:Property">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="690100" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="1385489" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="1751267" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="2859486" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="3397711" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="3870352" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="Human Resources:Property" target="Capital:Money">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="690100" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="1385489" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="1751267" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="2859486" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="3397711" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="3870352" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="Kiva " target="Human Resources:Data">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="250000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="584189" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="370837" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="457739" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="777946" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="1050587" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="Kiva " target="Available Resources:Idle">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="250000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="584189" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="370837" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="457739" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="777946" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="1050587" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="Kiva " target="Capital:Money">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="250000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="584189" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="370837" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="457739" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="777946" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="1050587" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="Capital:Assets" target="Human Resources:Knowledge">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="9778" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="13200" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="13200" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="20824" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="25000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="43858" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="Capital:Assets" target="Capital:Assets">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="234778" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="7348200" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="10578684" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="15794081" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="21102689" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="25353858" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="Capital:Assets" target="Athena Health">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="9778" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="13200" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="13200" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="20824" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="25000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="43858" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="Capital:Assets" target="Human Resources:Data">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="9778" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="13200" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="13200" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="20824" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="25000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="43858" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="Capital:Assets" target="Available Resources:Idle">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="225000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="7335000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="10565484" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="15773257" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="21077689" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="25310000" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="Capital:Assets" target="Capital:Money">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="10000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="25000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="100000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="300000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="500000" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="Capital:Assets" target="Human Resources:Relationship">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="10000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="25000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="100000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="300000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="500000" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="Capital:Assets" target="ZipCar">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="225000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="325000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="540484" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="673257" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="777689" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="810000" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="Capital:Assets" target="Available Resources:Libre">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="9778" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="7013200" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="10013200" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="15020824" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="20025000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="24043858" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="Kickstarter" target="Available Resources:Idle">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="0" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="11130" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="27086" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="41765" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="41765" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="Kickstarter" target="Human Resources:Data">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="0" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="11130" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="27086" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="41765" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="41765" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="Kickstarter" target="Capital:Money">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="0" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="11130" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="27086" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="41765" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="41765" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="Athena Health" target="Human Resources:Data">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="9778" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="13200" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="13200" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="20824" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="25000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="43858" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="Athena Health" target="Human Resources:Knowledge">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="9778" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="13200" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="13200" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="20824" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="25000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="43858" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="Athena Health" target="Available Resources:Libre">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="9778" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="13200" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="13200" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="20824" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="25000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="43858" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="LinkedIN" target="Human Resources:Data">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="11900000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="20000000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="52000000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="84000000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="126000000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="140000000" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="LinkedIN" target="Human Resources:Knowledge">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="11900000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="20000000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="52000000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="84000000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="126000000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="140000000" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="LinkedIN" target="Human Resources:Relationship">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="11900000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="20000000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="52000000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="84000000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="126000000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="140000000" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="LinkedIN" target="Available Resources:Libre">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="11900000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="20000000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="52000000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="84000000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="126000000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="140000000" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="Available Resources:Idle" target="Human Resources:Service">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="50000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="95000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="200000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="250000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="540000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="540000" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="Available Resources:Idle" target="Human Resources:Knowledge">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="15961112" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="368284000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="456595000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="521930673" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="589040000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="611040000" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="Available Resources:Idle" target="Yelp">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="15000000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="25000000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="41000000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="66000000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="86000000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="108000000" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="Available Resources:Idle" target="Human Resources:Data">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="1161112" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="343773189" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="415776967" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="456165498" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="503319711" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="503592352" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="Available Resources:Idle" target="Available Resources:Idle">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="7000000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="10000000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="15000000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="20000000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="24000000" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="Available Resources:Idle" target="Ancestry">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="911112" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="1066000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="1395000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="1680673" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="2500000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="2500000" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="Available Resources:Idle" target="Human Resources:Relationship">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="10000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="25000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="100000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="300000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="500000" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="Available Resources:Idle" target="Capital:Money">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="690000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="1384189" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="1746967" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="2854825" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="3389711" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="3862352" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="Available Resources:Idle" target="ZipCar">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="225000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="325000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="540484" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="673257" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="777689" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="810000" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="Available Resources:Idle" target="Available Resources:Libre">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="7000000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="10000000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="15000000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="20000000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="24000000" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="Available Resources:Idle" target="Odesk">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="50000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="95000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="200000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="250000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="540000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="540000" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="Ancestry" target="Human Resources:Data">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="911112" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="1066000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="1395000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="1680673" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="2500000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="2500000" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="Ancestry" target="Human Resources:Knowledge">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="911112" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="1066000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="1395000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="1680673" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="2500000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="2500000" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="Facebook" target="Human Resources:Data">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="100000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="700000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="1500000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="4000000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="13000000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="13000000" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="Facebook" target="Human Resources:Relationship">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="100000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="700000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="1500000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="4000000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="13000000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="13000000" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="Odesk" target="Human Resources:Knowledge">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="50000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="95000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="200000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="250000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="540000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="540000" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="Odesk" target="Human Resources:Service">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="50000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="95000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="200000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="250000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="540000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="540000" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="Salesforce" target="Available Resources:Libre">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="1100000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="1700000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="2100000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="3000000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="5800000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="5800000" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="Human Resources:Service" target="Human Resources:Service">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="50000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="95000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="200000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="250000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="540000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="540000" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="Human Resources:Service" target="Capital:Money">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="100" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="1300" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="4300" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="4661" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="8000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="8000" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="Human Resources:Service" target="Human Resources:Knowledge">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="50000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="95000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="200000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="250000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="540000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="540000" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="Yelp" target="Human Resources:Knowledge">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="15000000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="25000000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="41000000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="66000000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="86000000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="108000000" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="Human Resources:Data" target="Human Resources:Data">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="16459890" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="369863419" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="479362297" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="569574322" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="690406711" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="728698210" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="Human Resources:Data" target="Human Resources:Relationship">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="14789000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="23981000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="57569000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="93388000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="146062000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="160062000" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="Human Resources:Data" target="Capital:Money">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="250000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="584189" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="381967" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="484825" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="819711" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="1092352" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="Human Resources:Data" target="Human Resources:Knowledge">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="13320890" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="365298230" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="473411330" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="559701497" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="669525000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="707543858" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="Human Resources:Data" target="Shutterfly">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="2789000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="3281000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="4069000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="5388000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="7062000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="7062000" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="Human Resources:Data" target="Available Resources:Libre">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="12409778" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="22109230" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="58016330" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="104020824" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="167025000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="205043858" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="Human Resources:Relationship" target="Human Resources:Relationship">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="11900000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="20010000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="52025000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="84100000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="126300000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="140500000" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="Human Resources:Relationship" target="Capital:Money">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="0" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="10000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="25000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="100000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="300000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="500000" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="Human Resources:Relationship" target="Human Resources:Knowledge">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="11900000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="20000000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="52000000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="84000000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="126000000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="140000000" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="Human Resources:Relationship" target="Shutterfly">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="2789000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="3281000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="4069000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="5388000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="7062000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="7062000" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="Human Resources:Relationship" target="Available Resources:Libre">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="11900000" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="20000000" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="52000000" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="84000000" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="126000000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="140000000" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="Capital:Money" target="Capital:Money">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="690100" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="1385489" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="1751267" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="2859486" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="3397711" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="3870352" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="Human Resources:Knowledge" target="Human Resources:Knowledge">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="28370890" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="390393230" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="514611330" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="625951497" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="756065000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="816083858" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="Human Resources:Knowledge" target="Available Resources:Libre">
+        <attvalues>
+          <attvalue end="2008-01-01" for="4" start="2007-01-01" value="12409778" />
+          <attvalue end="2009-01-01" for="4" start="2008-01-01" value="22109230" />
+          <attvalue end="2010-01-01" for="4" start="2009-01-01" value="58016330" />
+          <attvalue end="2011-01-01" for="4" start="2010-01-01" value="104020824" />
+          <attvalue end="2012-01-01" for="4" start="2011-01-01" value="167025000" />
+          <attvalue end="2013-01-01" for="4" start="2012-01-01" value="205043858" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

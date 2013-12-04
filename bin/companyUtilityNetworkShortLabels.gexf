@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="parentType" type="string" />
+      <attribute id="1" title="childType" type="string" />
+      <attribute id="2" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="37signals" label="37signals">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Spotify" label="Spotify">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Stack Overflow" label="Stack Overflow">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Plos" label="Plos">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Huffington Post" label="Huffington Post">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Outbrain" label="Outbrain">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Wikipedia" label="Wikipedia">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Crowdflower" label="Crowdflower">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Alpe d&apos;Huzes" label="Alpe d&apos;Huzes">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Shiply" label="Shiply">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Foursquare" label="Foursquare">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="AirBNB (2008)" label="AirBNB (2008)">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Human Resources:Property" label="Property">
+        <attvalues>
+          <attvalue for="0" value="Human Resources" />
+          <attvalue for="1" value="Property" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="Evernote" label="Evernote">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Whatsapp" label="Whatsapp">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Survey Monkey" label="Survey Monkey">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Waze" label="Waze">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Kiva " label="Kiva ">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Yelp" label="Yelp">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Capital:Assets" label="Assets">
+        <attvalues>
+          <attvalue for="0" value="Capital" />
+          <attvalue for="1" value="Assets" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="Kickstarter" label="Kickstarter">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Quora" label="Quora">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Athena Health" label="Athena Health">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="LinkedIN" label="LinkedIN">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Fon " label="Fon ">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Arduino" label="Arduino">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Global Giving" label="Global Giving">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Available Resources:Idle" label="Idle">
+        <attvalues>
+          <attvalue for="0" value="Available Resources" />
+          <attvalue for="1" value="Idle" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="Ancestry" label="Ancestry">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Facebook" label="Facebook">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Odesk" label="Odesk">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Lendingclub" label="Lendingclub">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Dropbox" label="Dropbox">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Etsy" label="Etsy">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Sparkfun" label="Sparkfun">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Android " label="Android ">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Elance" label="Elance">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Salesforce" label="Salesforce">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Human Resources:Service" label="Service">
+        <attvalues>
+          <attvalue for="0" value="Human Resources" />
+          <attvalue for="1" value="Service" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="Docstoc" label="Docstoc">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="BlaBlaCar (2006)" label="BlaBlaCar (2006)">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="We Transfer" label="We Transfer">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Pinterest" label="Pinterest">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Ebay" label="Ebay">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Makerbot" label="Makerbot">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Human Resources:Data" label="Data">
+        <attvalues>
+          <attvalue for="0" value="Human Resources" />
+          <attvalue for="1" value="Data" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="Human Resources:Relationship" label="Relationship">
+        <attvalues>
+          <attvalue for="0" value="Human Resources" />
+          <attvalue for="1" value="Relationship" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="Capital:Money" label="Money">
+        <attvalues>
+          <attvalue for="0" value="Capital" />
+          <attvalue for="1" value="Money" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="Human Resources:Knowledge" label="Knowledge">
+        <attvalues>
+          <attvalue for="0" value="Human Resources" />
+          <attvalue for="1" value="Knowledge" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="23AndMe" label="23AndMe">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Carpooling.com" label="Carpooling.com">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Twitter" label="Twitter">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Khan Academy " label="Khan Academy ">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Couchsurfing" label="Couchsurfing">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Instragram" label="Instragram">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Taskrabbit" label="Taskrabbit">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Patientslikeme" label="Patientslikeme">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Skype" label="Skype">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="DeviantArt" label="DeviantArt">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="ZipCar" label="ZipCar">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Shutterfly" label="Shutterfly">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Layar" label="Layar">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Available Resources:Libre" label="Libre">
+        <attvalues>
+          <attvalue for="0" value="Available Resources" />
+          <attvalue for="1" value="Libre" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="37signals" target="Human Resources:Relationship" weight="1" />
+      <edge id="1" source="37signals" target="Available Resources:Libre" weight="1" />
+      <edge id="2" source="Spotify" target="Available Resources:Idle" weight="1" />
+      <edge id="3" source="Spotify" target="Available Resources:Libre" weight="1" />
+      <edge id="4" source="Spotify" target="Capital:Assets" weight="1" />
+      <edge id="5" source="Stack Overflow" target="Available Resources:Idle" weight="1" />
+      <edge id="6" source="Stack Overflow" target="Human Resources:Knowledge" weight="1" />
+      <edge id="7" source="Stack Overflow" target="Human Resources:Service" weight="1" />
+      <edge id="8" source="Plos" target="Human Resources:Knowledge" weight="1" />
+      <edge id="9" source="Plos" target="Human Resources:Service" weight="1" />
+      <edge id="10" source="Plos" target="Human Resources:Property" weight="1" />
+      <edge id="11" source="Huffington Post" target="Available Resources:Idle" weight="1" />
+      <edge id="12" source="Huffington Post" target="Human Resources:Knowledge" weight="1" />
+      <edge id="13" source="Huffington Post" target="Capital:Assets" weight="1" />
+      <edge id="14" source="Outbrain" target="Available Resources:Idle" weight="1" />
+      <edge id="15" source="Outbrain" target="Human Resources:Knowledge" weight="1" />
+      <edge id="16" source="Outbrain" target="Human Resources:Data" weight="1" />
+      <edge id="17" source="Outbrain" target="Available Resources:Libre" weight="1" />
+      <edge id="18" source="Wikipedia" target="Human Resources:Data" weight="1" />
+      <edge id="19" source="Wikipedia" target="Human Resources:Knowledge" weight="1" />
+      <edge id="20" source="Wikipedia" target="Available Resources:Idle" weight="1" />
+      <edge id="21" source="Crowdflower" target="Available Resources:Idle" weight="1" />
+      <edge id="22" source="Crowdflower" target="Human Resources:Service" weight="1" />
+      <edge id="23" source="Crowdflower" target="Capital:Money" weight="1" />
+      <edge id="24" source="Alpe d&apos;Huzes" target="Human Resources:Service" weight="1" />
+      <edge id="25" source="Alpe d&apos;Huzes" target="Human Resources:Property" weight="1" />
+      <edge id="26" source="Alpe d&apos;Huzes" target="Capital:Money" weight="1" />
+      <edge id="27" source="Shiply" target="Available Resources:Idle" weight="1" />
+      <edge id="28" source="Shiply" target="Human Resources:Property" weight="1" />
+      <edge id="29" source="Shiply" target="Capital:Assets" weight="1" />
+      <edge id="30" source="Foursquare" target="Human Resources:Data" weight="1" />
+      <edge id="31" source="Foursquare" target="Human Resources:Property" weight="1" />
+      <edge id="32" source="Foursquare" target="Available Resources:Idle" weight="1" />
+      <edge id="33" source="Foursquare" target="Capital:Assets" weight="1" />
+      <edge id="34" source="AirBNB (2008)" target="Available Resources:Idle" weight="1" />
+      <edge id="35" source="AirBNB (2008)" target="Capital:Assets" weight="1" />
+      <edge id="36" source="AirBNB (2008)" target="Human Resources:Relationship" weight="1" />
+      <edge id="37" source="AirBNB (2008)" target="Human Resources:Property" weight="1" />
+      <edge id="38" source="AirBNB (2008)" target="Capital:Money" weight="1" />
+      <edge id="39" source="Human Resources:Property" target="Global Giving" weight="1" />
+      <edge id="40" source="Human Resources:Property" target="Human Resources:Property" weight="22" />
+      <edge id="41" source="Human Resources:Property" target="Kiva " weight="1" />
+      <edge id="42" source="Human Resources:Property" target="Capital:Assets" weight="10" />
+      <edge id="43" source="Human Resources:Property" target="Kickstarter" weight="1" />
+      <edge id="44" source="Human Resources:Property" target="Fon " weight="1" />
+      <edge id="45" source="Human Resources:Property" target="Available Resources:Idle" weight="15" />
+      <edge id="46" source="Human Resources:Property" target="Lendingclub" weight="1" />
+      <edge id="47" source="Human Resources:Property" target="Dropbox" weight="1" />
+      <edge id="48" source="Human Resources:Property" target="Etsy" weight="1" />
+      <edge id="49" source="Human Resources:Property" target="We Transfer" weight="1" />
+      <edge id="50" source="Human Resources:Property" target="Android " weight="1" />
+      <edge id="51" source="Human Resources:Property" target="Human Resources:Service" weight="4" />
+      <edge id="52" source="Human Resources:Property" target="Docstoc" weight="1" />
+      <edge id="53" source="Human Resources:Property" target="BlaBlaCar (2006)" weight="1" />
+      <edge id="54" source="Human Resources:Property" target="Couchsurfing" weight="1" />
+      <edge id="55" source="Human Resources:Property" target="Ebay" weight="1" />
+      <edge id="56" source="Human Resources:Property" target="Makerbot" weight="1" />
+      <edge id="57" source="Human Resources:Property" target="Human Resources:Data" weight="9" />
+      <edge id="58" source="Human Resources:Property" target="Human Resources:Relationship" weight="3" />
+      <edge id="59" source="Human Resources:Property" target="Capital:Money" weight="8" />
+      <edge id="60" source="Human Resources:Property" target="Human Resources:Knowledge" weight="1" />
+      <edge id="61" source="Human Resources:Property" target="23AndMe" weight="1" />
+      <edge id="62" source="Human Resources:Property" target="Carpooling.com" weight="1" />
+      <edge id="63" source="Human Resources:Property" target="DeviantArt" weight="1" />
+      <edge id="64" source="Human Resources:Property" target="Layar" weight="1" />
+      <edge id="65" source="Human Resources:Property" target="Available Resources:Libre" weight="4" />
+      <edge id="66" source="Evernote" target="Human Resources:Data" weight="1" />
+      <edge id="67" source="Evernote" target="Human Resources:Knowledge" weight="1" />
+      <edge id="68" source="Evernote" target="Available Resources:Libre" weight="1" />
+      <edge id="69" source="Whatsapp" target="Human Resources:Data" weight="1" />
+      <edge id="70" source="Whatsapp" target="Human Resources:Relationship" weight="1" />
+      <edge id="71" source="Whatsapp" target="Capital:Assets" weight="1" />
+      <edge id="72" source="Survey Monkey" target="Available Resources:Idle" weight="1" />
+      <edge id="73" source="Survey Monkey" target="Human Resources:Knowledge" weight="1" />
+      <edge id="74" source="Survey Monkey" target="Human Resources:Data" weight="1" />
+      <edge id="75" source="Waze" target="Available Resources:Idle" weight="1" />
+      <edge id="76" source="Waze" target="Human Resources:Knowledge" weight="1" />
+      <edge id="77" source="Waze" target="Human Resources:Data" weight="1" />
+      <edge id="78" source="Kiva " target="Human Resources:Data" weight="1" />
+      <edge id="79" source="Kiva " target="Available Resources:Idle" weight="1" />
+      <edge id="80" source="Kiva " target="Capital:Money" weight="1" />
+      <edge id="81" source="Yelp" target="Available Resources:Idle" weight="1" />
+      <edge id="82" source="Yelp" target="Human Resources:Knowledge" weight="1" />
+      <edge id="83" source="Capital:Assets" target="Capital:Assets" weight="17" />
+      <edge id="84" source="Capital:Assets" target="Arduino" weight="1" />
+      <edge id="85" source="Capital:Assets" target="Athena Health" weight="1" />
+      <edge id="86" source="Capital:Assets" target="Fon " weight="1" />
+      <edge id="87" source="Capital:Assets" target="Available Resources:Idle" weight="11" />
+      <edge id="88" source="Capital:Assets" target="Carpooling.com" weight="1" />
+      <edge id="89" source="Capital:Assets" target="Couchsurfing" weight="1" />
+      <edge id="90" source="Capital:Assets" target="Android " weight="1" />
+      <edge id="91" source="Capital:Assets" target="Human Resources:Service" weight="2" />
+      <edge id="92" source="Capital:Assets" target="BlaBlaCar (2006)" weight="1" />
+      <edge id="93" source="Capital:Assets" target="Sparkfun" weight="1" />
+      <edge id="94" source="Capital:Assets" target="Makerbot" weight="1" />
+      <edge id="95" source="Capital:Assets" target="Human Resources:Data" weight="5" />
+      <edge id="96" source="Capital:Assets" target="Human Resources:Relationship" weight="4" />
+      <edge id="97" source="Capital:Assets" target="Capital:Money" weight="1" />
+      <edge id="98" source="Capital:Assets" target="Human Resources:Knowledge" weight="3" />
+      <edge id="99" source="Capital:Assets" target="DeviantArt" weight="1" />
+      <edge id="100" source="Capital:Assets" target="ZipCar" weight="1" />
+      <edge id="101" source="Capital:Assets" target="Available Resources:Libre" weight="6" />
+      <edge id="102" source="Kickstarter" target="Available Resources:Idle" weight="1" />
+      <edge id="103" source="Kickstarter" target="Human Resources:Data" weight="1" />
+      <edge id="104" source="Kickstarter" target="Capital:Money" weight="1" />
+      <edge id="105" source="Quora" target="Available Resources:Idle" weight="1" />
+      <edge id="106" source="Quora" target="Human Resources:Knowledge" weight="1" />
+      <edge id="107" source="Quora" target="Human Resources:Service" weight="1" />
+      <edge id="108" source="Athena Health" target="Human Resources:Data" weight="1" />
+      <edge id="109" source="Athena Health" target="Human Resources:Knowledge" weight="1" />
+      <edge id="110" source="Athena Health" target="Available Resources:Libre" weight="1" />
+      <edge id="111" source="LinkedIN" target="Human Resources:Data" weight="1" />
+      <edge id="112" source="LinkedIN" target="Human Resources:Knowledge" weight="1" />
+      <edge id="113" source="LinkedIN" target="Human Resources:Relationship" weight="1" />
+      <edge id="114" source="LinkedIN" target="Available Resources:Libre" weight="1" />
+      <edge id="115" source="Fon " target="Available Resources:Idle" weight="1" />
+      <edge id="116" source="Fon " target="Available Resources:Libre" weight="1" />
+      <edge id="117" source="Arduino" target="Available Resources:Libre" weight="1" />
+      <edge id="118" source="Arduino" target="Human Resources:Knowledge" weight="1" />
+      <edge id="119" source="Global Giving" target="Available Resources:Idle" weight="1" />
+      <edge id="120" source="Global Giving" target="Capital:Money" weight="1" />
+      <edge id="121" source="Available Resources:Idle" target="Available Resources:Idle" weight="3" />
+      <edge id="122" source="Available Resources:Idle" target="Ancestry" weight="1" />
+      <edge id="123" source="Available Resources:Idle" target="Odesk" weight="1" />
+      <edge id="124" source="Available Resources:Idle" target="Lendingclub" weight="1" />
+      <edge id="125" source="Available Resources:Idle" target="Carpooling.com" weight="1" />
+      <edge id="126" source="Available Resources:Idle" target="Elance" weight="1" />
+      <edge id="127" source="Available Resources:Idle" target="Human Resources:Service" weight="8" />
+      <edge id="128" source="Available Resources:Idle" target="BlaBlaCar (2006)" weight="1" />
+      <edge id="129" source="Available Resources:Idle" target="Couchsurfing" weight="1" />
+      <edge id="130" source="Available Resources:Idle" target="Makerbot" weight="1" />
+      <edge id="131" source="Available Resources:Idle" target="Human Resources:Data" weight="10" />
+      <edge id="132" source="Available Resources:Idle" target="Human Resources:Relationship" weight="2" />
+      <edge id="133" source="Available Resources:Idle" target="Capital:Money" weight="8" />
+      <edge id="134" source="Available Resources:Idle" target="Human Resources:Knowledge" weight="12" />
+      <edge id="135" source="Available Resources:Idle" target="23AndMe" weight="1" />
+      <edge id="136" source="Available Resources:Idle" target="Etsy" weight="1" />
+      <edge id="137" source="Available Resources:Idle" target="Taskrabbit" weight="1" />
+      <edge id="138" source="Available Resources:Idle" target="Patientslikeme" weight="1" />
+      <edge id="139" source="Available Resources:Idle" target="ZipCar" weight="1" />
+      <edge id="140" source="Available Resources:Idle" target="Layar" weight="1" />
+      <edge id="141" source="Available Resources:Idle" target="Available Resources:Libre" weight="3" />
+      <edge id="142" source="Ancestry" target="Human Resources:Data" weight="1" />
+      <edge id="143" source="Ancestry" target="Human Resources:Knowledge" weight="1" />
+      <edge id="144" source="Facebook" target="Human Resources:Data" weight="1" />
+      <edge id="145" source="Facebook" target="Human Resources:Relationship" weight="1" />
+      <edge id="146" source="Odesk" target="Human Resources:Knowledge" weight="1" />
+      <edge id="147" source="Odesk" target="Human Resources:Service" weight="1" />
+      <edge id="148" source="Lendingclub" target="Capital:Money" weight="1" />
+      <edge id="149" source="Dropbox" target="Human Resources:Data" weight="1" />
+      <edge id="150" source="Dropbox" target="Available Resources:Libre" weight="1" />
+      <edge id="151" source="Etsy" target="Capital:Money" weight="1" />
+      <edge id="152" source="Sparkfun" target="Available Resources:Libre" weight="1" />
+      <edge id="153" source="Android " target="Human Resources:Data" weight="1" />
+      <edge id="154" source="Android " target="Human Resources:Relationship" weight="1" />
+      <edge id="155" source="Android " target="Available Resources:Libre" weight="1" />
+      <edge id="156" source="Elance" target="Human Resources:Knowledge" weight="1" />
+      <edge id="157" source="Elance" target="Human Resources:Service" weight="1" />
+      <edge id="158" source="Salesforce" target="Available Resources:Libre" weight="1" />
+      <edge id="159" source="Human Resources:Service" target="Carpooling.com" weight="1" />
+      <edge id="160" source="Human Resources:Service" target="Human Resources:Service" weight="8" />
+      <edge id="161" source="Human Resources:Service" target="BlaBlaCar (2006)" weight="1" />
+      <edge id="162" source="Human Resources:Service" target="Capital:Money" weight="3" />
+      <edge id="163" source="Human Resources:Service" target="Human Resources:Knowledge" weight="5" />
+      <edge id="164" source="Human Resources:Service" target="Taskrabbit" weight="1" />
+      <edge id="165" source="Docstoc" target="Human Resources:Data" weight="1" />
+      <edge id="166" source="Docstoc" target="Available Resources:Libre" weight="1" />
+      <edge id="167" source="We Transfer" target="Human Resources:Data" weight="1" />
+      <edge id="168" source="Pinterest" target="Human Resources:Data" weight="1" />
+      <edge id="169" source="Pinterest" target="Human Resources:Relationship" weight="1" />
+      <edge id="170" source="Ebay" target="Capital:Money" weight="1" />
+      <edge id="171" source="Human Resources:Data" target="Instragram" weight="1" />
+      <edge id="172" source="Human Resources:Data" target="Human Resources:Data" weight="22" />
+      <edge id="173" source="Human Resources:Data" target="Human Resources:Relationship" weight="8" />
+      <edge id="174" source="Human Resources:Data" target="Capital:Money" weight="2" />
+      <edge id="175" source="Human Resources:Data" target="Human Resources:Knowledge" weight="10" />
+      <edge id="176" source="Human Resources:Data" target="23AndMe" weight="1" />
+      <edge id="177" source="Human Resources:Data" target="Twitter" weight="1" />
+      <edge id="178" source="Human Resources:Data" target="Patientslikeme" weight="1" />
+      <edge id="179" source="Human Resources:Data" target="DeviantArt" weight="1" />
+      <edge id="180" source="Human Resources:Data" target="Shutterfly" weight="1" />
+      <edge id="181" source="Human Resources:Data" target="Available Resources:Libre" weight="7" />
+      <edge id="182" source="Human Resources:Relationship" target="Instragram" weight="1" />
+      <edge id="183" source="Human Resources:Relationship" target="Twitter" weight="1" />
+      <edge id="184" source="Human Resources:Relationship" target="Available Resources:Libre" weight="4" />
+      <edge id="185" source="Human Resources:Relationship" target="Human Resources:Relationship" weight="6" />
+      <edge id="186" source="Human Resources:Relationship" target="Capital:Money" weight="1" />
+      <edge id="187" source="Human Resources:Relationship" target="Human Resources:Knowledge" weight="2" />
+      <edge id="188" source="Human Resources:Relationship" target="Shutterfly" weight="1" />
+      <edge id="189" source="Human Resources:Relationship" target="Couchsurfing" weight="1" />
+      <edge id="190" source="Human Resources:Relationship" target="Skype" weight="1" />
+      <edge id="191" source="Capital:Money" target="Capital:Money" weight="10" />
+      <edge id="192" source="Capital:Money" target="Taskrabbit" weight="1" />
+      <edge id="193" source="Human Resources:Knowledge" target="Khan Academy " weight="1" />
+      <edge id="194" source="Human Resources:Knowledge" target="Human Resources:Knowledge" weight="18" />
+      <edge id="195" source="Human Resources:Knowledge" target="Twitter" weight="1" />
+      <edge id="196" source="Human Resources:Knowledge" target="Patientslikeme" weight="1" />
+      <edge id="197" source="Human Resources:Knowledge" target="Available Resources:Libre" weight="5" />
+      <edge id="198" source="Skype" target="Available Resources:Libre" weight="1" />
+    </edges>
+  </graph>
+</gexf>

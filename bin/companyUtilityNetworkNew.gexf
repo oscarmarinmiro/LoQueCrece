@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="utf-8"?><gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="parentType" type="string" />
+      <attribute id="1" title="childType" type="string" />
+      <attribute id="2" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Instragram" label="Instragram">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="37signals" label="37signals">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Stack Overflow" label="Stack Overflow">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Research Gate" label="Research Gate">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Input:Service" label="Service">
+        <attvalues>
+          <attvalue for="0" value="Input" />
+          <attvalue for="1" value="Service" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="Arduino" label="Arduino">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Outbrain" label="Outbrain">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Athena Health" label="Athena Health">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Guifinet" label="Guifinet">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Wikipedia" label="Wikipedia">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Crowdflower" label="Crowdflower">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Alpe d&apos;Huzes" label="Alpe d&apos;Huzes">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Foursquare" label="Foursquare">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Alibaba Group" label="Alibaba Group">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Hootesuite" label="Hootesuite">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Ancestry" label="Ancestry">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="We Transfer" label="We Transfer">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Evernote" label="Evernote">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Whatsapp" label="Whatsapp">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="23AndMe" label="23AndMe">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Survey Monkey" label="Survey Monkey">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Waze" label="Waze">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Khan Academy " label="Khan Academy ">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Docstoc" label="Docstoc">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Meet Up" label="Meet Up">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Input:Knowledge/Education" label="Knowledge/Education">
+        <attvalues>
+          <attvalue for="0" value="Input" />
+          <attvalue for="1" value="Knowledge/Education" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="Huffington Post" label="Huffington Post">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Quora" label="Quora">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Input:Media/Entertainment" label="Media/Entertainment">
+        <attvalues>
+          <attvalue for="0" value="Input" />
+          <attvalue for="1" value="Media/Entertainment" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="LinkedIN" label="LinkedIN">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Fon " label="Fon ">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Pinterest" label="Pinterest">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Global Giving" label="Global Giving">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Structure:Market" label="Market">
+        <attvalues>
+          <attvalue for="0" value="Structure" />
+          <attvalue for="1" value="Market" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="Facebook" label="Facebook">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Odesk" label="Odesk">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Lendingclub" label="Lendingclub">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Sparkfun" label="Sparkfun">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Dropbox" label="Dropbox">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Etsy" label="Etsy">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Shiply" label="Shiply">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Yammer" label="Yammer">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Elance" label="Elance">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Salesforce" label="Salesforce">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Yelp" label="Yelp">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Netflix" label="Netflix">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="BlaBlaCar (2006)" label="BlaBlaCar (2006)">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Couchsurfing" label="Couchsurfing">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Input:Property" label="Property">
+        <attvalues>
+          <attvalue for="0" value="Input" />
+          <attvalue for="1" value="Property" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="Youtube" label="Youtube">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Plos" label="Plos">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Makerbot" label="Makerbot">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="TedX" label="TedX">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Causes.com" label="Causes.com">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Input:Data" label="Data">
+        <attvalues>
+          <attvalue for="0" value="Input" />
+          <attvalue for="1" value="Data" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="Outcome:Occupation/Redistribution" label="Occupation/Redistribution">
+        <attvalues>
+          <attvalue for="0" value="Outcome" />
+          <attvalue for="1" value="Occupation/Redistribution" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="Outcome:Commons/Access" label="Commons/Access">
+        <attvalues>
+          <attvalue for="0" value="Outcome" />
+          <attvalue for="1" value="Commons/Access" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="Kiva " label="Kiva ">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="ZipCar" label="ZipCar">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Ebay" label="Ebay">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Input:Money" label="Money">
+        <attvalues>
+          <attvalue for="0" value="Input" />
+          <attvalue for="1" value="Money" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="Input:Relationships" label="Relationships">
+        <attvalues>
+          <attvalue for="0" value="Input" />
+          <attvalue for="1" value="Relationships" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="Android " label="Android ">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Change.org" label="Change.org">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Carpooling.com" label="Carpooling.com">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Structure:Service" label="Service">
+        <attvalues>
+          <attvalue for="0" value="Structure" />
+          <attvalue for="1" value="Service" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="Spotify" label="Spotify">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Outcome:Breaktrough/Upgrade" label="Breaktrough/Upgrade">
+        <attvalues>
+          <attvalue for="0" value="Outcome" />
+          <attvalue for="1" value="Breaktrough/Upgrade" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="CrowdSourced:CrowdSourced" label="CrowdSourced">
+        <attvalues>
+          <attvalue for="0" value="CrowdSourced" />
+          <attvalue for="1" value="CrowdSourced" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="Structure:Platform" label="Platform">
+        <attvalues>
+          <attvalue for="0" value="Structure" />
+          <attvalue for="1" value="Platform" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="Taskrabbit" label="Taskrabbit">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Kickstarter" label="Kickstarter">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Patientslikeme" label="Patientslikeme">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Outcome:Producer" label="Producer">
+        <attvalues>
+          <attvalue for="0" value="Outcome" />
+          <attvalue for="1" value="Producer" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="8Coupon" label="8Coupon">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Skype" label="Skype">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Baidu" label="Baidu">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="AirBNB (2008)" label="AirBNB (2008)">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="DeviantArt" label="DeviantArt">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="CrowdSourced:Centralized" label="Centralized">
+        <attvalues>
+          <attvalue for="0" value="CrowdSourced" />
+          <attvalue for="1" value="Centralized" />
+          <attvalue for="2" value="utility" />
+        </attvalues>
+      </node>
+      <node id="Shutterfly" label="Shutterfly">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Twitter" label="Twitter">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+      <node id="Layar" label="Layar">
+        <attvalues>
+          <attvalue for="0" value="company" />
+          <attvalue for="1" value="company" />
+          <attvalue for="2" value="company" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Instragram" target="Input:Relationships" weight="1" />
+      <edge id="1" source="Instragram" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="2" source="Instragram" target="Input:Media/Entertainment" weight="1" />
+      <edge id="3" source="Instragram" target="Structure:Market" weight="1" />
+      <edge id="4" source="Instragram" target="Input:Data" weight="1" />
+      <edge id="5" source="Instragram" target="Outcome:Producer" weight="1" />
+      <edge id="6" source="37signals" target="Input:Relationships" weight="1" />
+      <edge id="7" source="37signals" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="8" source="37signals" target="Structure:Service" weight="1" />
+      <edge id="9" source="37signals" target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="10" source="Stack Overflow" target="Input:Knowledge/Education" weight="1" />
+      <edge id="11" source="Stack Overflow" target="Input:Relationships" weight="1" />
+      <edge id="12" source="Stack Overflow" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="13" source="Stack Overflow" target="Structure:Platform" weight="1" />
+      <edge id="14" source="Stack Overflow" target="Outcome:Producer" weight="1" />
+      <edge id="15" source="Research Gate" target="Input:Knowledge/Education" weight="1" />
+      <edge id="16" source="Research Gate" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="17" source="Research Gate" target="Structure:Platform" weight="1" />
+      <edge id="18" source="Research Gate" target="Input:Data" weight="1" />
+      <edge id="19" source="Research Gate" target="Outcome:Commons/Access" weight="1" />
+      <edge id="20" source="Research Gate" target="Outcome:Producer" weight="1" />
+      <edge id="21" source="Input:Service" target="Input:Service" weight="10" />
+      <edge id="22" source="Input:Service" target="Arduino" weight="1" />
+      <edge id="23" source="Input:Service" target="Crowdflower" weight="1" />
+      <edge id="24" source="Input:Service" target="Alpe d&apos;Huzes" weight="1" />
+      <edge id="25" source="Input:Service" target="Input:Knowledge/Education" weight="3" />
+      <edge id="26" source="Input:Service" target="Quora" weight="1" />
+      <edge id="27" source="Input:Service" target="Structure:Market" weight="3" />
+      <edge id="28" source="Input:Service" target="Odesk" weight="1" />
+      <edge id="29" source="Input:Service" target="Carpooling.com" weight="1" />
+      <edge id="30" source="Input:Service" target="Taskrabbit" weight="1" />
+      <edge id="31" source="Input:Service" target="BlaBlaCar (2006)" weight="1" />
+      <edge id="32" source="Input:Service" target="Input:Property" weight="2" />
+      <edge id="33" source="Input:Service" target="Causes.com" weight="1" />
+      <edge id="34" source="Input:Service" target="Outcome:Occupation/Redistribution" weight="5" />
+      <edge id="35" source="Input:Service" target="Outcome:Commons/Access" weight="2" />
+      <edge id="36" source="Input:Service" target="Input:Money" weight="1" />
+      <edge id="37" source="Input:Service" target="Input:Relationships" weight="5" />
+      <edge id="38" source="Input:Service" target="Change.org" weight="1" />
+      <edge id="39" source="Input:Service" target="Structure:Service" weight="1" />
+      <edge id="40" source="Input:Service" target="CrowdSourced:CrowdSourced" weight="10" />
+      <edge id="41" source="Input:Service" target="Structure:Platform" weight="6" />
+      <edge id="42" source="Input:Service" target="Outcome:Producer" weight="7" />
+      <edge id="43" source="Arduino" target="Input:Knowledge/Education" weight="1" />
+      <edge id="44" source="Arduino" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="45" source="Arduino" target="Structure:Platform" weight="1" />
+      <edge id="46" source="Arduino" target="Outcome:Producer" weight="1" />
+      <edge id="47" source="Arduino" target="Outcome:Commons/Access" weight="1" />
+      <edge id="48" source="Outbrain" target="CrowdSourced:Centralized" weight="1" />
+      <edge id="49" source="Outbrain" target="Input:Media/Entertainment" weight="1" />
+      <edge id="50" source="Outbrain" target="Structure:Service" weight="1" />
+      <edge id="51" source="Outbrain" target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="52" source="Athena Health" target="CrowdSourced:Centralized" weight="1" />
+      <edge id="53" source="Athena Health" target="Structure:Service" weight="1" />
+      <edge id="54" source="Athena Health" target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="55" source="Guifinet" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="56" source="Wikipedia" target="Input:Knowledge/Education" weight="1" />
+      <edge id="57" source="Wikipedia" target="Input:Data" weight="1" />
+      <edge id="58" source="Wikipedia" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="59" source="Wikipedia" target="Structure:Platform" weight="1" />
+      <edge id="60" source="Wikipedia" target="Outcome:Commons/Access" weight="1" />
+      <edge id="61" source="Crowdflower" target="Structure:Market" weight="1" />
+      <edge id="62" source="Crowdflower" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="63" source="Crowdflower" target="Outcome:Producer" weight="1" />
+      <edge id="64" source="Crowdflower" target="Outcome:Occupation/Redistribution" weight="1" />
+      <edge id="65" source="Alpe d&apos;Huzes" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="66" source="Alpe d&apos;Huzes" target="Structure:Service" weight="1" />
+      <edge id="67" source="Alpe d&apos;Huzes" target="Input:Money" weight="1" />
+      <edge id="68" source="Foursquare" target="Structure:Platform" weight="1" />
+      <edge id="69" source="Foursquare" target="Outcome:Producer" weight="1" />
+      <edge id="70" source="Foursquare" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="71" source="Foursquare" target="Input:Data" weight="1" />
+      <edge id="72" source="Foursquare" target="Input:Property" weight="1" />
+      <edge id="73" source="Alibaba Group" target="Input:Relationships" weight="1" />
+      <edge id="74" source="Alibaba Group" target="Structure:Service" weight="1" />
+      <edge id="75" source="Alibaba Group" target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="76" source="Alibaba Group" target="Input:Knowledge/Education" weight="1" />
+      <edge id="77" source="Alibaba Group" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="78" source="Alibaba Group" target="Input:Media/Entertainment" weight="1" />
+      <edge id="79" source="Alibaba Group" target="Input:Data" weight="1" />
+      <edge id="80" source="Hootesuite" target="Input:Relationships" weight="1" />
+      <edge id="81" source="Hootesuite" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="82" source="Hootesuite" target="Input:Media/Entertainment" weight="1" />
+      <edge id="83" source="Hootesuite" target="Structure:Service" weight="1" />
+      <edge id="84" source="Hootesuite" target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="85" source="Ancestry" target="CrowdSourced:Centralized" weight="1" />
+      <edge id="86" source="Ancestry" target="Input:Data" weight="1" />
+      <edge id="87" source="Ancestry" target="Structure:Service" weight="1" />
+      <edge id="88" source="Ancestry" target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="89" source="We Transfer" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="90" source="We Transfer" target="Input:Data" weight="1" />
+      <edge id="91" source="We Transfer" target="Structure:Service" weight="1" />
+      <edge id="92" source="We Transfer" target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="93" source="Evernote" target="Structure:Service" weight="1" />
+      <edge id="94" source="Evernote" target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="95" source="Evernote" target="Input:Knowledge/Education" weight="1" />
+      <edge id="96" source="Evernote" target="Structure:Platform" weight="1" />
+      <edge id="97" source="Evernote" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="98" source="Evernote" target="Input:Media/Entertainment" weight="1" />
+      <edge id="99" source="Evernote" target="Outcome:Producer" weight="1" />
+      <edge id="100" source="Whatsapp" target="Input:Relationships" weight="1" />
+      <edge id="101" source="Whatsapp" target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="102" source="Whatsapp" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="103" source="Whatsapp" target="Input:Media/Entertainment" weight="1" />
+      <edge id="104" source="Whatsapp" target="Structure:Market" weight="1" />
+      <edge id="105" source="Whatsapp" target="Input:Data" weight="1" />
+      <edge id="106" source="23AndMe" target="Structure:Service" weight="1" />
+      <edge id="107" source="23AndMe" target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="108" source="23AndMe" target="Input:Property" weight="1" />
+      <edge id="109" source="23AndMe" target="Input:Data" weight="1" />
+      <edge id="110" source="23AndMe" target="CrowdSourced:Centralized" weight="1" />
+      <edge id="111" source="23AndMe" target="Input:Money" weight="1" />
+      <edge id="112" source="Survey Monkey" target="Input:Knowledge/Education" weight="1" />
+      <edge id="113" source="Survey Monkey" target="CrowdSourced:Centralized" weight="1" />
+      <edge id="114" source="Survey Monkey" target="Input:Data" weight="1" />
+      <edge id="115" source="Survey Monkey" target="Structure:Service" weight="1" />
+      <edge id="116" source="Survey Monkey" target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="117" source="Waze" target="Input:Knowledge/Education" weight="1" />
+      <edge id="118" source="Waze" target="Structure:Platform" weight="1" />
+      <edge id="119" source="Waze" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="120" source="Waze" target="Input:Data" weight="1" />
+      <edge id="121" source="Waze" target="Outcome:Producer" weight="1" />
+      <edge id="122" source="Khan Academy " target="Input:Knowledge/Education" weight="1" />
+      <edge id="123" source="Khan Academy " target="CrowdSourced:Centralized" weight="1" />
+      <edge id="124" source="Khan Academy " target="Input:Media/Entertainment" weight="1" />
+      <edge id="125" source="Khan Academy " target="Structure:Service" weight="1" />
+      <edge id="126" source="Khan Academy " target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="127" source="Docstoc" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="128" source="Docstoc" target="Input:Data" weight="1" />
+      <edge id="129" source="Docstoc" target="Structure:Service" weight="1" />
+      <edge id="130" source="Docstoc" target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="131" source="Meet Up" target="Input:Relationships" weight="1" />
+      <edge id="132" source="Meet Up" target="Structure:Platform" weight="1" />
+      <edge id="133" source="Meet Up" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="134" source="Meet Up" target="Outcome:Producer" weight="1" />
+      <edge id="135" source="Input:Knowledge/Education" target="Outcome:Breaktrough/Upgrade" weight="5" />
+      <edge id="136" source="Input:Knowledge/Education" target="Input:Knowledge/Education" weight="18" />
+      <edge id="137" source="Input:Knowledge/Education" target="Quora" weight="1" />
+      <edge id="138" source="Input:Knowledge/Education" target="Input:Media/Entertainment" weight="6" />
+      <edge id="139" source="Input:Knowledge/Education" target="LinkedIN" weight="1" />
+      <edge id="140" source="Input:Knowledge/Education" target="Structure:Market" weight="4" />
+      <edge id="141" source="Input:Knowledge/Education" target="Odesk" weight="1" />
+      <edge id="142" source="Input:Knowledge/Education" target="Elance" weight="1" />
+      <edge id="143" source="Input:Knowledge/Education" target="Yelp" weight="1" />
+      <edge id="144" source="Input:Knowledge/Education" target="Plos" weight="1" />
+      <edge id="145" source="Input:Knowledge/Education" target="TedX" weight="1" />
+      <edge id="146" source="Input:Knowledge/Education" target="Input:Data" weight="9" />
+      <edge id="147" source="Input:Knowledge/Education" target="Outcome:Occupation/Redistribution" weight="2" />
+      <edge id="148" source="Input:Knowledge/Education" target="Outcome:Commons/Access" weight="6" />
+      <edge id="149" source="Input:Knowledge/Education" target="Input:Relationships" weight="6" />
+      <edge id="150" source="Input:Knowledge/Education" target="Structure:Service" weight="4" />
+      <edge id="151" source="Input:Knowledge/Education" target="Twitter" weight="1" />
+      <edge id="152" source="Input:Knowledge/Education" target="CrowdSourced:CrowdSourced" weight="16" />
+      <edge id="153" source="Input:Knowledge/Education" target="Structure:Platform" weight="11" />
+      <edge id="154" source="Input:Knowledge/Education" target="Patientslikeme" weight="1" />
+      <edge id="155" source="Input:Knowledge/Education" target="Outcome:Producer" weight="12" />
+      <edge id="156" source="Input:Knowledge/Education" target="CrowdSourced:Centralized" weight="2" />
+      <edge id="157" source="Huffington Post" target="CrowdSourced:Centralized" weight="1" />
+      <edge id="158" source="Huffington Post" target="Input:Media/Entertainment" weight="1" />
+      <edge id="159" source="Quora" target="Input:Relationships" weight="1" />
+      <edge id="160" source="Quora" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="161" source="Quora" target="Structure:Platform" weight="1" />
+      <edge id="162" source="Quora" target="Outcome:Producer" weight="1" />
+      <edge id="163" source="Quora" target="Outcome:Commons/Access" weight="1" />
+      <edge id="164" source="Input:Media/Entertainment" target="Spotify" weight="1" />
+      <edge id="165" source="Input:Media/Entertainment" target="Outcome:Breaktrough/Upgrade" weight="11" />
+      <edge id="166" source="Input:Media/Entertainment" target="Input:Media/Entertainment" weight="19" />
+      <edge id="167" source="Input:Media/Entertainment" target="LinkedIN" weight="1" />
+      <edge id="168" source="Input:Media/Entertainment" target="Pinterest" weight="1" />
+      <edge id="169" source="Input:Media/Entertainment" target="Structure:Market" weight="3" />
+      <edge id="170" source="Input:Media/Entertainment" target="Facebook" weight="1" />
+      <edge id="171" source="Input:Media/Entertainment" target="Yammer" weight="1" />
+      <edge id="172" source="Input:Media/Entertainment" target="Netflix" weight="1" />
+      <edge id="173" source="Input:Media/Entertainment" target="Youtube" weight="1" />
+      <edge id="174" source="Input:Media/Entertainment" target="TedX" weight="1" />
+      <edge id="175" source="Input:Media/Entertainment" target="Input:Data" weight="9" />
+      <edge id="176" source="Input:Media/Entertainment" target="Outcome:Commons/Access" weight="1" />
+      <edge id="177" source="Input:Media/Entertainment" target="Input:Relationships" weight="10" />
+      <edge id="178" source="Input:Media/Entertainment" target="Structure:Service" weight="9" />
+      <edge id="179" source="Input:Media/Entertainment" target="Twitter" weight="1" />
+      <edge id="180" source="Input:Media/Entertainment" target="CrowdSourced:CrowdSourced" weight="15" />
+      <edge id="181" source="Input:Media/Entertainment" target="Structure:Platform" weight="8" />
+      <edge id="182" source="Input:Media/Entertainment" target="Outcome:Producer" weight="9" />
+      <edge id="183" source="Input:Media/Entertainment" target="Skype" weight="1" />
+      <edge id="184" source="Input:Media/Entertainment" target="DeviantArt" weight="1" />
+      <edge id="185" source="Input:Media/Entertainment" target="CrowdSourced:Centralized" weight="5" />
+      <edge id="186" source="Input:Media/Entertainment" target="Shutterfly" weight="1" />
+      <edge id="187" source="LinkedIN" target="Input:Relationships" weight="1" />
+      <edge id="188" source="LinkedIN" target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="189" source="LinkedIN" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="190" source="LinkedIN" target="Structure:Platform" weight="1" />
+      <edge id="191" source="LinkedIN" target="Input:Data" weight="1" />
+      <edge id="192" source="Fon " target="Input:Property" weight="1" />
+      <edge id="193" source="Fon " target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="194" source="Fon " target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="195" source="Fon " target="Structure:Service" weight="1" />
+      <edge id="196" source="Pinterest" target="Input:Relationships" weight="1" />
+      <edge id="197" source="Pinterest" target="Structure:Platform" weight="1" />
+      <edge id="198" source="Pinterest" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="199" source="Pinterest" target="Input:Data" weight="1" />
+      <edge id="200" source="Pinterest" target="Outcome:Producer" weight="1" />
+      <edge id="201" source="Global Giving" target="Structure:Market" weight="1" />
+      <edge id="202" source="Global Giving" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="203" source="Global Giving" target="Outcome:Producer" weight="1" />
+      <edge id="204" source="Global Giving" target="Input:Money" weight="1" />
+      <edge id="205" source="Global Giving" target="Outcome:Occupation/Redistribution" weight="1" />
+      <edge id="206" source="Structure:Market" target="AirBNB (2008)" weight="1" />
+      <edge id="207" source="Structure:Market" target="Elance" weight="1" />
+      <edge id="208" source="Structure:Market" target="Kiva " weight="1" />
+      <edge id="209" source="Structure:Market" target="Outcome:Breaktrough/Upgrade" weight="2" />
+      <edge id="210" source="Structure:Market" target="Structure:Market" weight="16" />
+      <edge id="211" source="Structure:Market" target="Facebook" weight="1" />
+      <edge id="212" source="Structure:Market" target="Odesk" weight="1" />
+      <edge id="213" source="Structure:Market" target="Lendingclub" weight="1" />
+      <edge id="214" source="Structure:Market" target="Etsy" weight="1" />
+      <edge id="215" source="Structure:Market" target="Taskrabbit" weight="1" />
+      <edge id="216" source="Structure:Market" target="Yelp" weight="1" />
+      <edge id="217" source="Structure:Market" target="Input:Property" weight="4" />
+      <edge id="218" source="Structure:Market" target="Ebay" weight="1" />
+      <edge id="219" source="Structure:Market" target="Input:Data" weight="6" />
+      <edge id="220" source="Structure:Market" target="Outcome:Occupation/Redistribution" weight="11" />
+      <edge id="221" source="Structure:Market" target="Input:Money" weight="3" />
+      <edge id="222" source="Structure:Market" target="Input:Relationships" weight="5" />
+      <edge id="223" source="Structure:Market" target="CrowdSourced:CrowdSourced" weight="15" />
+      <edge id="224" source="Structure:Market" target="Structure:Platform" weight="1" />
+      <edge id="225" source="Structure:Market" target="Shiply" weight="1" />
+      <edge id="226" source="Structure:Market" target="Patientslikeme" weight="1" />
+      <edge id="227" source="Structure:Market" target="Outcome:Producer" weight="10" />
+      <edge id="228" source="Structure:Market" target="CrowdSourced:Centralized" weight="1" />
+      <edge id="229" source="Facebook" target="Input:Relationships" weight="1" />
+      <edge id="230" source="Facebook" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="231" source="Facebook" target="Input:Data" weight="1" />
+      <edge id="232" source="Facebook" target="Outcome:Producer" weight="1" />
+      <edge id="233" source="Odesk" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="234" source="Odesk" target="Outcome:Producer" weight="1" />
+      <edge id="235" source="Odesk" target="Outcome:Occupation/Redistribution" weight="1" />
+      <edge id="236" source="Lendingclub" target="Input:Data" weight="1" />
+      <edge id="237" source="Lendingclub" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="238" source="Lendingclub" target="Outcome:Occupation/Redistribution" weight="1" />
+      <edge id="239" source="Lendingclub" target="Input:Money" weight="1" />
+      <edge id="240" source="Sparkfun" target="CrowdSourced:Centralized" weight="1" />
+      <edge id="241" source="Sparkfun" target="Structure:Service" weight="1" />
+      <edge id="242" source="Sparkfun" target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="243" source="Dropbox" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="244" source="Dropbox" target="Input:Property" weight="1" />
+      <edge id="245" source="Dropbox" target="Input:Data" weight="1" />
+      <edge id="246" source="Dropbox" target="Structure:Service" weight="1" />
+      <edge id="247" source="Dropbox" target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="248" source="Etsy" target="Input:Property" weight="1" />
+      <edge id="249" source="Etsy" target="Outcome:Producer" weight="1" />
+      <edge id="250" source="Etsy" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="251" source="Etsy" target="Outcome:Occupation/Redistribution" weight="1" />
+      <edge id="252" source="Shiply" target="Input:Property" weight="1" />
+      <edge id="253" source="Shiply" target="CrowdSourced:Centralized" weight="1" />
+      <edge id="254" source="Shiply" target="Outcome:Occupation/Redistribution" weight="1" />
+      <edge id="255" source="Shiply" target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="256" source="Yammer" target="Input:Relationships" weight="1" />
+      <edge id="257" source="Yammer" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="258" source="Yammer" target="Structure:Platform" weight="1" />
+      <edge id="259" source="Yammer" target="Input:Data" weight="1" />
+      <edge id="260" source="Yammer" target="Outcome:Producer" weight="1" />
+      <edge id="261" source="Elance" target="Outcome:Producer" weight="1" />
+      <edge id="262" source="Elance" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="263" source="Elance" target="Outcome:Occupation/Redistribution" weight="1" />
+      <edge id="264" source="Salesforce" target="Input:Relationships" weight="1" />
+      <edge id="265" source="Salesforce" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="266" source="Salesforce" target="Structure:Platform" weight="1" />
+      <edge id="267" source="Salesforce" target="Structure:Service" weight="1" />
+      <edge id="268" source="Salesforce" target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="269" source="Yelp" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="270" source="Yelp" target="Outcome:Producer" weight="1" />
+      <edge id="271" source="Netflix" target="CrowdSourced:Centralized" weight="1" />
+      <edge id="272" source="Netflix" target="Structure:Service" weight="1" />
+      <edge id="273" source="Netflix" target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="274" source="BlaBlaCar (2006)" target="Input:Relationships" weight="1" />
+      <edge id="275" source="BlaBlaCar (2006)" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="276" source="BlaBlaCar (2006)" target="Input:Property" weight="1" />
+      <edge id="277" source="BlaBlaCar (2006)" target="Structure:Platform" weight="1" />
+      <edge id="278" source="BlaBlaCar (2006)" target="Outcome:Occupation/Redistribution" weight="1" />
+      <edge id="279" source="Couchsurfing" target="Input:Relationships" weight="1" />
+      <edge id="280" source="Couchsurfing" target="Input:Property" weight="1" />
+      <edge id="281" source="Couchsurfing" target="Structure:Platform" weight="1" />
+      <edge id="282" source="Couchsurfing" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="283" source="Couchsurfing" target="Outcome:Occupation/Redistribution" weight="1" />
+      <edge id="284" source="Input:Property" target="AirBNB (2008)" weight="1" />
+      <edge id="285" source="Input:Property" target="Outcome:Breaktrough/Upgrade" weight="7" />
+      <edge id="286" source="Input:Property" target="Input:Property" weight="14" />
+      <edge id="287" source="Input:Property" target="Makerbot" weight="1" />
+      <edge id="288" source="Input:Property" target="Input:Data" weight="3" />
+      <edge id="289" source="Input:Property" target="Outcome:Occupation/Redistribution" weight="8" />
+      <edge id="290" source="Input:Property" target="Ebay" weight="1" />
+      <edge id="291" source="Input:Property" target="Input:Money" weight="1" />
+      <edge id="292" source="Input:Property" target="Input:Relationships" weight="4" />
+      <edge id="293" source="Input:Property" target="Carpooling.com" weight="1" />
+      <edge id="294" source="Input:Property" target="Structure:Service" weight="6" />
+      <edge id="295" source="Input:Property" target="CrowdSourced:CrowdSourced" weight="10" />
+      <edge id="296" source="Input:Property" target="Structure:Platform" weight="5" />
+      <edge id="297" source="Input:Property" target="8Coupon" weight="1" />
+      <edge id="298" source="Input:Property" target="Outcome:Producer" weight="3" />
+      <edge id="299" source="Input:Property" target="CrowdSourced:Centralized" weight="4" />
+      <edge id="300" source="Input:Property" target="Layar" weight="1" />
+      <edge id="301" source="Youtube" target="Structure:Platform" weight="1" />
+      <edge id="302" source="Youtube" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="303" source="Youtube" target="Outcome:Producer" weight="1" />
+      <edge id="304" source="Plos" target="Input:Data" weight="1" />
+      <edge id="305" source="Plos" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="306" source="Plos" target="Structure:Platform" weight="1" />
+      <edge id="307" source="Plos" target="Outcome:Commons/Access" weight="1" />
+      <edge id="308" source="Makerbot" target="Structure:Service" weight="1" />
+      <edge id="309" source="Makerbot" target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="310" source="Makerbot" target="Outcome:Producer" weight="1" />
+      <edge id="311" source="Makerbot" target="Outcome:Occupation/Redistribution" weight="1" />
+      <edge id="312" source="Makerbot" target="CrowdSourced:Centralized" weight="1" />
+      <edge id="313" source="TedX" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="314" source="TedX" target="Structure:Platform" weight="1" />
+      <edge id="315" source="TedX" target="Outcome:Producer" weight="1" />
+      <edge id="316" source="TedX" target="Outcome:Commons/Access" weight="1" />
+      <edge id="317" source="Causes.com" target="Input:Relationships" weight="1" />
+      <edge id="318" source="Causes.com" target="Structure:Platform" weight="1" />
+      <edge id="319" source="Causes.com" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="320" source="Causes.com" target="Outcome:Producer" weight="1" />
+      <edge id="321" source="Input:Data" target="Kiva " weight="1" />
+      <edge id="322" source="Input:Data" target="Input:Money" weight="3" />
+      <edge id="323" source="Input:Data" target="Android " weight="1" />
+      <edge id="324" source="Input:Data" target="Outcome:Breaktrough/Upgrade" weight="9" />
+      <edge id="325" source="Input:Data" target="Input:Data" weight="24" />
+      <edge id="326" source="Input:Data" target="Outcome:Occupation/Redistribution" weight="3" />
+      <edge id="327" source="Input:Data" target="Outcome:Commons/Access" weight="3" />
+      <edge id="328" source="Input:Data" target="Input:Relationships" weight="9" />
+      <edge id="329" source="Input:Data" target="Structure:Service" weight="7" />
+      <edge id="330" source="Input:Data" target="Twitter" weight="1" />
+      <edge id="331" source="Input:Data" target="CrowdSourced:CrowdSourced" weight="21" />
+      <edge id="332" source="Input:Data" target="Structure:Platform" weight="11" />
+      <edge id="333" source="Input:Data" target="Patientslikeme" weight="1" />
+      <edge id="334" source="Input:Data" target="Outcome:Producer" weight="11" />
+      <edge id="335" source="Input:Data" target="DeviantArt" weight="1" />
+      <edge id="336" source="Input:Data" target="CrowdSourced:Centralized" weight="3" />
+      <edge id="337" source="Outcome:Occupation/Redistribution" target="Outcome:Breaktrough/Upgrade" weight="3" />
+      <edge id="338" source="Outcome:Occupation/Redistribution" target="AirBNB (2008)" weight="1" />
+      <edge id="339" source="Outcome:Occupation/Redistribution" target="Kiva " weight="1" />
+      <edge id="340" source="Outcome:Occupation/Redistribution" target="Kickstarter" weight="1" />
+      <edge id="341" source="Outcome:Occupation/Redistribution" target="Input:Money" weight="4" />
+      <edge id="342" source="Outcome:Occupation/Redistribution" target="Carpooling.com" weight="1" />
+      <edge id="343" source="Outcome:Occupation/Redistribution" target="Android " weight="1" />
+      <edge id="344" source="Outcome:Occupation/Redistribution" target="Ebay" weight="1" />
+      <edge id="345" source="Outcome:Occupation/Redistribution" target="Outcome:Occupation/Redistribution" weight="10" />
+      <edge id="346" source="Outcome:Occupation/Redistribution" target="Input:Relationships" weight="5" />
+      <edge id="347" source="Outcome:Occupation/Redistribution" target="ZipCar" weight="1" />
+      <edge id="348" source="Outcome:Occupation/Redistribution" target="Structure:Service" weight="2" />
+      <edge id="349" source="Outcome:Occupation/Redistribution" target="CrowdSourced:CrowdSourced" weight="15" />
+      <edge id="350" source="Outcome:Occupation/Redistribution" target="Structure:Platform" weight="6" />
+      <edge id="351" source="Outcome:Occupation/Redistribution" target="Taskrabbit" weight="1" />
+      <edge id="352" source="Outcome:Occupation/Redistribution" target="Outcome:Producer" weight="8" />
+      <edge id="353" source="Outcome:Occupation/Redistribution" target="CrowdSourced:Centralized" weight="3" />
+      <edge id="354" source="Outcome:Commons/Access" target="Input:Relationships" weight="1" />
+      <edge id="355" source="Outcome:Commons/Access" target="Structure:Platform" weight="6" />
+      <edge id="356" source="Outcome:Commons/Access" target="CrowdSourced:CrowdSourced" weight="6" />
+      <edge id="357" source="Outcome:Commons/Access" target="Outcome:Commons/Access" weight="4" />
+      <edge id="358" source="Outcome:Commons/Access" target="Outcome:Producer" weight="4" />
+      <edge id="359" source="Kiva " target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="360" source="Kiva " target="Input:Money" weight="1" />
+      <edge id="361" source="ZipCar" target="CrowdSourced:Centralized" weight="1" />
+      <edge id="362" source="ZipCar" target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="363" source="ZipCar" target="Structure:Service" weight="1" />
+      <edge id="364" source="Ebay" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="365" source="Input:Money" target="Input:Relationships" weight="1" />
+      <edge id="366" source="Input:Money" target="CrowdSourced:CrowdSourced" weight="5" />
+      <edge id="367" source="Input:Money" target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="368" source="Input:Money" target="Kickstarter" weight="1" />
+      <edge id="369" source="Input:Money" target="Structure:Platform" weight="1" />
+      <edge id="370" source="Input:Money" target="Input:Money" weight="6" />
+      <edge id="371" source="Input:Money" target="Outcome:Producer" weight="1" />
+      <edge id="372" source="Input:Money" target="CrowdSourced:Centralized" weight="1" />
+      <edge id="373" source="Input:Money" target="Structure:Service" weight="2" />
+      <edge id="374" source="Input:Relationships" target="Outcome:Breaktrough/Upgrade" weight="7" />
+      <edge id="375" source="Input:Relationships" target="Kickstarter" weight="1" />
+      <edge id="376" source="Input:Relationships" target="Carpooling.com" weight="1" />
+      <edge id="377" source="Input:Relationships" target="Input:Relationships" weight="23" />
+      <edge id="378" source="Input:Relationships" target="Change.org" weight="1" />
+      <edge id="379" source="Input:Relationships" target="Structure:Service" weight="5" />
+      <edge id="380" source="Input:Relationships" target="Twitter" weight="1" />
+      <edge id="381" source="Input:Relationships" target="CrowdSourced:CrowdSourced" weight="23" />
+      <edge id="382" source="Input:Relationships" target="Structure:Platform" weight="15" />
+      <edge id="383" source="Input:Relationships" target="Patientslikeme" weight="1" />
+      <edge id="384" source="Input:Relationships" target="Outcome:Producer" weight="11" />
+      <edge id="385" source="Input:Relationships" target="Skype" weight="1" />
+      <edge id="386" source="Input:Relationships" target="AirBNB (2008)" weight="1" />
+      <edge id="387" source="Android " target="Structure:Platform" weight="1" />
+      <edge id="388" source="Android " target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="389" source="Android " target="Outcome:Producer" weight="1" />
+      <edge id="390" source="Change.org" target="Structure:Platform" weight="1" />
+      <edge id="391" source="Change.org" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="392" source="Change.org" target="Outcome:Producer" weight="1" />
+      <edge id="393" source="Carpooling.com" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="394" source="Carpooling.com" target="Structure:Platform" weight="1" />
+      <edge id="395" source="Structure:Service" target="Spotify" weight="1" />
+      <edge id="396" source="Structure:Service" target="Outcome:Breaktrough/Upgrade" weight="24" />
+      <edge id="397" source="Structure:Service" target="Structure:Service" weight="24" />
+      <edge id="398" source="Structure:Service" target="CrowdSourced:CrowdSourced" weight="13" />
+      <edge id="399" source="Structure:Service" target="Structure:Platform" weight="2" />
+      <edge id="400" source="Structure:Service" target="8Coupon" weight="1" />
+      <edge id="401" source="Structure:Service" target="Outcome:Producer" weight="2" />
+      <edge id="402" source="Structure:Service" target="Skype" weight="1" />
+      <edge id="403" source="Structure:Service" target="CrowdSourced:Centralized" weight="12" />
+      <edge id="404" source="Structure:Service" target="Shutterfly" weight="1" />
+      <edge id="405" source="Structure:Service" target="Layar" weight="1" />
+      <edge id="406" source="Spotify" target="CrowdSourced:CrowdSourced" weight="1" />
+      <edge id="407" source="Spotify" target="Outcome:Breaktrough/Upgrade" weight="1" />
+      <edge id="408" source="Outcome:Breaktrough/Upgrade" target="Outcome:Breaktrough/Upgrade" weight="2" />
+      <edge id="409" source="Outcome:Breaktrough/Upgrade" target="CrowdSourced:CrowdSourced" weight="14" />
+      <edge id="410" source="Outcome:Breaktrough/Upgrade" target="Structure:Platform" weight="3" />
+      <edge id="411" source="Outcome:Breaktrough/Upgrade" target="8Coupon" weight="1" />
+      <edge id="412" source="Outcome:Breaktrough/Upgrade" target="Outcome:Producer" weight="2" />
+      <edge id="413" source="Outcome:Breaktrough/Upgrade" target="Skype" weight="1" />
+      <edge id="414" source="Outcome:Breaktrough/Upgrade" target="CrowdSourced:Centralized" weight="13" />
+      <edge id="415" source="Outcome:Breaktrough/Upgrade" target="Shutterfly" weight="1" />
+      <edge id="416" source="Outcome:Breaktrough/Upgrade" target="Layar" weight="1" />
+      <edge id="417" source="CrowdSourced:CrowdSourced" target="AirBNB (2008)" weight="1" />
+      <edge id="418" source="CrowdSourced:CrowdSourced" target="Kickstarter" weight="1" />
+      <edge id="419" source="CrowdSourced:CrowdSourced" target="Taskrabbit" weight="1" />
+      <edge id="420" source="CrowdSourced:CrowdSourced" target="Baidu" weight="1" />
+      <edge id="421" source="CrowdSourced:CrowdSourced" target="Twitter" weight="1" />
+      <edge id="422" source="CrowdSourced:CrowdSourced" target="CrowdSourced:CrowdSourced" weight="51" />
+      <edge id="423" source="CrowdSourced:CrowdSourced" target="Structure:Platform" weight="26" />
+      <edge id="424" source="CrowdSourced:CrowdSourced" target="Patientslikeme" weight="1" />
+      <edge id="425" source="CrowdSourced:CrowdSourced" target="Outcome:Producer" weight="27" />
+      <edge id="426" source="CrowdSourced:CrowdSourced" target="Skype" weight="1" />
+      <edge id="427" source="CrowdSourced:CrowdSourced" target="DeviantArt" weight="1" />
+      <edge id="428" source="CrowdSourced:CrowdSourced" target="Layar" weight="1" />
+      <edge id="429" source="Structure:Platform" target="AirBNB (2008)" weight="1" />
+      <edge id="430" source="Structure:Platform" target="Twitter" weight="1" />
+      <edge id="431" source="Structure:Platform" target="Structure:Platform" weight="26" />
+      <edge id="432" source="Structure:Platform" target="Kickstarter" weight="1" />
+      <edge id="433" source="Structure:Platform" target="Outcome:Producer" weight="17" />
+      <edge id="434" source="Structure:Platform" target="DeviantArt" weight="1" />
+      <edge id="435" source="Taskrabbit" target="Outcome:Producer" weight="1" />
+      <edge id="436" source="Patientslikeme" target="Outcome:Producer" weight="1" />
+      <edge id="437" source="Outcome:Producer" target="Twitter" weight="1" />
+      <edge id="438" source="Outcome:Producer" target="DeviantArt" weight="1" />
+      <edge id="439" source="Outcome:Producer" target="CrowdSourced:Centralized" weight="1" />
+      <edge id="440" source="8Coupon" target="CrowdSourced:Centralized" weight="1" />
+      <edge id="441" source="CrowdSourced:Centralized" target="CrowdSourced:Centralized" weight="14" />
+      <edge id="442" source="CrowdSourced:Centralized" target="Shutterfly" weight="1" />
+    </edges>
+  </graph>
+</gexf>
