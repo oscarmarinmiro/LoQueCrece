@@ -1,69 +1,69 @@
 Company,Input,Structure,Output
-Instragram,CC.Media,Platform,Contribution 
+Instragram,CC.Media,Platform,Contribution
 Spotify,IP.Media,Service,Access
-Quora,Knowledge ,Platform,Contribution 
+Khan Academy,Knowledge,Service,Access
+Quora,Knowledge,Platform,Contribution
 Evernote,CC.Media,Service,Access
-Research Gate,Knowledge ,Platform,Contribution 
-Plos,Knowledge ,Platform,Contribution 
-Pinterest,CC.Media,Platform,Contribution 
-Global Giving,Money,Market ,Occupation
-Wikipedia,Knowledge ,Platform,Contribution 
-Crowdflower,Service,Market ,Occupation
-Shapeways,Property ,Platform,Contribution 
-Foursquare,CC.Media,Platform,Contribution 
-AirBNB (2008),Property ,Market ,Occupation
+Research Gate,Knowledge,Platform,Contribution
+Plos,Knowledge,Platform,Contribution
+Pinterest,CC.Media,Platform,Contribution
+Global Giving,Money,Market,Occupation
+Wikipedia,Knowledge,Platform,Contribution
+Crowdflower,Service,Market,Occupation
+Shapeways,Property,Platform,Contribution
+Foursquare,CC.Media,Platform,Contribution
+AirBNB (2008),Property,Market,Occupation
 Hootesuite,CC.Media,Service,Access
-Guifinet,Property ,Platform,Contribution 
-We Transfer, Data ,Market ,Occupation
-Stack Overflow,Knowledge ,Platform,Contribution 
-Whatsapp,Relationships,Market ,Occupation
-Elance,Knowledge ,Market ,Occupation
-Waze,Knowledge ,Platform,Contribution 
-Kiva ,Money,Market ,Occupation
-Docstoc, Data ,Market ,Occupation
-Meet Up,Relationships,Market ,Occupation
-Kickstarter,Money,Market ,Occupation
-Khan Academy ,Knowledge ,Service,Access
-Athena Health, Data ,Service,Access
-Quirky,Knowledge ,Platform,Contribution 
-LinkedIN,Relationships,Platform,Contribution 
-Fon ,Property ,Service,Access
-Arduino,Knowledge ,Platform,Contribution 
-Outbrain, Data ,Market ,Occupation
-Ancestry, Data ,Service,Access
-Facebook,Relationships,Platform,Contribution 
-Odesk,Knowledge ,Market ,Occupation
-Lendingclub,Money,Market ,Occupation
-Dropbox, Data ,Market ,Occupation
-Etsy,Property ,Market ,Occupation
-Shiply,Property ,Market ,Occupation
-Android ,Knowledge ,Platform,Contribution 
-Survey Monkey, Data ,Service,Access
+Guifinet,Property,Platform,Contribution
+We Transfer,Data,Market,Occupation
+Stack Overflow,Knowledge,Platform,Contribution
+Android,Knowledge,Platform,Contribution
+Whatsapp,Relationships,Market,Occupation
+Elance,Knowledge,Market,Occupation
+Waze,Knowledge,Platform,Contribution
+Docstoc,Data,Market,Occupation
+Meet Up,Relationships,Market,Occupation
+Kickstarter,Money,Market,Occupation
+Arduino,Knowledge,Platform,Contribution
+Athena Health,Data,Service,Access
+Quirky,Knowledge,Platform,Contribution
+LinkedIN,Relationships,Platform,Contribution
+Sparkfun,Property,Platform,Contribution
+Outbrain,Data,Market,Occupation
+Ancestry,Data,Service,Access
+Facebook,Relationships,Platform,Contribution
+Odesk,Knowledge,Market,Occupation
+Fon,Property,Service,Access
+Dropbox,Data,Market,Occupation
+Etsy,Property,Market,Occupation
+Shiply,Property,Market,Occupation
+Yammer,Relationships,Platform,Contribution
+Survey Monkey,Data,Service,Access
 Salesforce,Relationships,Service,Access
-Yelp,Knowledge ,Market ,Occupation
+Lendingclub,Money,Market,Occupation
+Yelp,Knowledge,Market,Occupation
 Netflix,IP.Media,Service,Access
-BlaBlaCar (2006),Property ,Market ,Occupation
-Couchsurfing,Property ,Platform,Contribution 
-Youtube,CC.Media,Platform,Contribution 
-Ebay,Property ,Market ,Occupation
-TedX,Knowledge ,Platform,Contribution 
-Causes.com,Service,Platform,Contribution 
-Sparkfun,Property ,Platform,Contribution 
-Yammer,Relationships,Platform,Contribution 
-Makerbot,Property ,Service,Access
-Crowdgather,Relationships,Platform,Contribution 
-23AndMe, Data ,Market ,Occupation
-37signals,Property ,Platform,Contribution 
-Huffington Post,Knowledge ,Market ,Occupation
-Change.org,Service,Market ,Occupation
-Carpooling.com,Property ,Market ,Occupation
-Twitter,CC.Media,Platform,Contribution 
-RenRen,Relationships,Platform,Contribution 
-Taskrabbit,Service,Market ,Occupation
-8Coupon,Knowledge ,Market ,Occupation
-Patientslikeme, Data ,Platform,Contribution 
-Skype,Relationships,Market ,Occupation
-DeviantArt,CC.Media,Platform,Contribution 
-ZipCar,Property ,Service,Access
+BlaBlaCar (2006),Property,Market,Occupation
+Couchsurfing,Property,Platform,Contribution
+Youtube,CC.Media,Platform,Contribution
+Ebay,Property,Market,Occupation
+TedX,Knowledge,Platform,Contribution
+Causes.com,Service,Platform,Contribution
+Makerbot,Property,Service,Access
+Taskrabbit,Service,Market,Occupation
+23AndMe,Data,Market,Occupation
+37signals,Property,Platform,Contribution
+Huffington Post,Knowledge,Market,Occupation
+Change.org,Service,Market,Occupation
+Carpooling.com,Property,Market,Occupation
+Twitter,CC.Media,Platform,Contribution
+RenRen,Relationships,Platform,Contribution
+Kiva,Money,Market,Occupation
+8Coupon,Knowledge,Market,Occupation
+Patientslikeme,Data,Platform,Contribution
+Skype,Relationships,Market,Occupation
+Crowdgather,Relationships,Platform,Contribution
+DeviantArt,CC.Media,Platform,Contribution
+ZipCar,Property,Service,Access
 Shutterfly,CC.Media,Service,Access
-Layar, Data ,Market ,Occupation
+Layar,Data,Market,Occupation

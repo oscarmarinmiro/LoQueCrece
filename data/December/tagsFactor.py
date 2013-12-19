@@ -11,11 +11,14 @@ myReader = csv.reader(fileIn)
 
 tagNames = myReader.next()
 
+for i in range(0,len(tagNames)):
+    tagNames[i] = tagNames[i].strip()
+
 companyDict = {}
 
 for row in myReader:
 
-        companyName = row[0]
+        companyName = row[0].rstrip()
         description = row[1]
 
         print companyName
