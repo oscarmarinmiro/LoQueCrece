@@ -2,9 +2,9 @@ load("allFits.RData")
 
 chars = read.csv("chars-V4.csv")
 
-allData = merge(allFits,chars)
+allData = merge(allFits,chars,all=TRUE)
 
-allData <- allData[is.na(d)] <- ""
+allData[is.na(allData)] <- ""
 
 
 save(allData, file="allData.RData")

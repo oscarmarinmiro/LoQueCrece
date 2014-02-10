@@ -1,0 +1,6 @@
+All_Figures_In_One-Vx.xls ==> csv ==> data/growthTranspose/growthTransposeAllFigures-V4.csv ==> Growth-V4.csv ===>
+  r
+===> $DATE.getImpactFit, $DATE.getUsersFit, $DATE.getRevenueFIt =(r)=> $DATE.getAllFits
+
+
+New_Characteristics_Vx.xls ==> retocar headers ==> chars_Vx.csv =(r)=> $DATE.mixCharsFits => upload GS
