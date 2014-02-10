@@ -1,0 +1,27 @@
+"","Company","Fit.factor","Fit.a","Users","Input","Structure","Output","Launched"
+"1","AirBNB (2008)",4,1.76855715964341,3e+05,"Property","Market","Occupation",2008
+"2","Ancestry",1,0.262993919517487,2500000,"Data","Service","Access",1983
+"3","Android",4,1.09383257114834,3e+10,"Knowledge","Platform","Contribution",2003
+"4","Athena Health",1,0.280355109116981,25000,"Data","Service","Access",1997
+"5","Crowdgather",4,1.0159991911266,2.6e+07,"Relationships","Platform","Contribution",2002
+"6","Ebay",1,0.13087573841749,NA,"Property","Market","Occupation",1995
+"7","Elance",1,0.29613308468367,345000,"Knowledge","Market","Occupation",1999
+"8","Etsy",2,0.571862567601017,2.2e+07,"Property","Market","Occupation",2005
+"9","Evernote",3,0.821739678607901,4.1e+07,"CC.Media","Service","Access",2008
+"10","Facebook",3,0.742168543127874,1.3e+07,"Relationships","Platform","Contribution",2004
+"11","Kickstarter",4,1.22410072924729,41765,"Money","Market","Occupation",2009
+"12","Kiva",1,0.219259330125871,777946,"Money","Market","Occupation",2005
+"13","LinkedIN",3,0.649568678808074,1.26e+08,"Relationships","Platform","Contribution",2002
+"14","Netflix",1,0.259680103798623,3.3e+07,"IP.Media","Service","Access",1997
+"15","Odesk",3,0.60268518001383,540000,"Knowledge","Market","Occupation",2005
+"16","Plos",2,0.424370408834511,NA,"Knowledge","Platform","Contribution",2006
+"17","RenRen",3,0.602222166903206,1.78e+08,"Relationships","Platform","Contribution",2001
+"18","Salesforce",1,0.265914385523111,5800000,"Relationships","Service","Access",1999
+"19","Shutterfly",1,0.285037905656951,7062000,"CC.Media","Service","Access",1999
+"20","Skype",2,0.321300473508403,NA,"Relationships","Market","Occupation",2003
+"21","Sparkfun",2,0.365586860444046,NA,"Property","Platform","Contribution",2003
+"22","Spotify",4,1.10452230470552,2e+07,"IP.Media","Service","Access",2006
+"23","Wikipedia",2,0.443440028497412,5e+08,"Knowledge","Platform","Contribution",2001
+"24","Yammer",4,1.38440980548162,7e+06,"Relationships","Platform","Contribution",2008
+"25","Yelp",3,0.602671701824613,8.6e+07,"Knowledge","Market","Occupation",2004
+"26","ZipCar",1,0.254611118633324,777689,"Property","Service","Access",2000

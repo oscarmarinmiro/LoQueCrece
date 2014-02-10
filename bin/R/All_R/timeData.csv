@@ -1,0 +1,409 @@
+"","Company","Year","ImpactRelative"
+"1","23AndMe",2009,NA
+"2","23AndMe",2013,133
+"3","23AndMe",2010,NA
+"4","23AndMe",2011,40
+"5","23AndMe",2012,125
+"6","23AndMe",2008,NA
+"7","37signals",2008,NA
+"8","37signals",2009,25
+"9","37signals",2013,NA
+"10","37signals",2010,67
+"11","37signals",2011,36
+"12","37signals",2012,NA
+"13","8Coupon",2013,NA
+"14","8Coupon",2009,300
+"15","8Coupon",2010,100
+"16","8Coupon",2008,NA
+"17","8Coupon",2011,NA
+"18","8Coupon",2012,NA
+"19","AirBNB (2008)",2011,490
+"20","AirBNB (2008)",2013,NA
+"21","AirBNB (2008)",2009,58233
+"22","AirBNB (2008)",2010,400
+"23","AirBNB (2008)",2008,NA
+"24","AirBNB (2008)",2012,223
+"25","Alibaba Group",2008,NA
+"26","Alibaba Group",2009,48
+"27","Alibaba Group",2010,NA
+"28","Alibaba Group",2011,NA
+"29","Alibaba Group",2012,NA
+"30","Alibaba Group",2013,NA
+"31","Alpe d'Huzes",2009,NA
+"32","Alpe d'Huzes",2011,NA
+"33","Alpe d'Huzes",2010,NA
+"34","Alpe d'Huzes",2008,NA
+"35","Alpe d'Huzes",2012,NA
+"36","Alpe d'Huzes",2013,NA
+"37","Ancestry",2011,33
+"38","Ancestry",2008,NA
+"39","Ancestry",2009,NA
+"40","Ancestry",2010,50
+"41","Ancestry",2012,43
+"42","Ancestry",2013,NA
+"43","Android ",2008,NA
+"44","Android ",2011,260
+"45","Android ",2009,NA
+"46","Android ",2010,843
+"47","Android ",2012,24
+"48","Android ",2013,239
+"49","Arduino",2012,100
+"50","Arduino",2013,NA
+"51","Arduino",2008,NA
+"52","Arduino",2009,84
+"53","Arduino",2010,36
+"54","Arduino",2011,77
+"55","Athena Health",2009,65
+"56","Athena Health",2010,33
+"57","Athena Health",2008,NA
+"58","Athena Health",2011,20
+"59","Athena Health",2012,38
+"60","Athena Health",2013,NA
+"61","Baidu",2009,12
+"62","Baidu",2008,NA
+"63","Baidu",2011,18
+"64","Baidu",2012,22
+"65","Baidu",2010,30
+"66","Baidu",2013,47
+"67","BlaBlaCar (2006)",2008,NA
+"68","BlaBlaCar (2006)",2009,NA
+"69","BlaBlaCar (2006)",2013,30
+"70","BlaBlaCar (2006)",2012,44
+"71","BlaBlaCar (2006)",2010,400
+"72","BlaBlaCar (2006)",2011,220
+"73","Carpooling.com",2009,NA
+"74","Carpooling.com",2008,NA
+"75","Carpooling.com",2011,NA
+"76","Carpooling.com",2012,NA
+"77","Carpooling.com",2010,NA
+"78","Carpooling.com",2013,NA
+"79","Change.org",2009,NA
+"80","Change.org",2010,NA
+"81","Change.org",2008,NA
+"82","Change.org",2012,192
+"83","Change.org",2013,71
+"84","Change.org",2011,NA
+"85","Couchsurfing",2009,80
+"86","Couchsurfing",2011,NA
+"87","Couchsurfing",2008,NA
+"88","Couchsurfing",2010,NA
+"89","Couchsurfing",2012,NA
+"90","Couchsurfing",2013,NA
+"91","Crowdflower",2013,167
+"92","Crowdflower",2012,200
+"93","Crowdflower",2011,100
+"94","Crowdflower",2008,NA
+"95","Crowdflower",2009,NA
+"96","Crowdflower",2010,525
+"97","Crowdgather",2013,NA
+"98","Crowdgather",2010,165
+"99","Crowdgather",2009,NA
+"100","Crowdgather",2011,233
+"101","Crowdgather",2008,NA
+"102","Crowdgather",2012,19
+"103","DeviantArt",2008,NA
+"104","DeviantArt",2009,62
+"105","DeviantArt",2010,73
+"106","DeviantArt",2011,4
+"107","DeviantArt",2012,24
+"108","DeviantArt",2013,37
+"109","Docstoc",2011,54
+"110","Docstoc",2008,NA
+"111","Docstoc",2010,160
+"112","Docstoc",2009,NA
+"113","Docstoc",2013,NA
+"114","Docstoc",2012,25
+"115","Dropbox",2009,NA
+"116","Dropbox",2010,NA
+"117","Dropbox",2008,NA
+"118","Dropbox",2012,100
+"119","Dropbox",2013,75
+"120","Dropbox",2011,NA
+"121","Ebay",2012,23
+"122","Ebay",2009,3
+"123","Ebay",2010,5
+"124","Ebay",2008,NA
+"125","Ebay",2013,NA
+"126","Ebay",2011,6
+"127","Elance",2008,NA
+"128","Elance",2010,60
+"129","Elance",2011,306
+"130","Elance",2013,90
+"131","Elance",2009,NA
+"132","Elance",2012,131
+"133","Etsy",2008,NA
+"134","Etsy",2010,NA
+"135","Etsy",2011,NA
+"136","Etsy",2009,NA
+"137","Etsy",2013,25
+"138","Etsy",2012,100
+"139","Evernote",2008,NA
+"140","Evernote",2009,783
+"141","Evernote",2011,273
+"142","Evernote",2012,100
+"143","Evernote",2010,470
+"144","Evernote",2013,NA
+"145","Facebook",2009,177
+"146","Facebook",2010,69
+"147","Facebook",2012,25
+"148","Facebook",2008,NA
+"149","Facebook",2013,19
+"150","Facebook",2011,39
+"151","Fon ",2009,372
+"152","Fon ",2013,NA
+"153","Fon ",2011,19
+"154","Fon ",2012,25
+"155","Fon ",2008,NA
+"156","Fon ",2010,235
+"157","Foursquare",2008,NA
+"158","Foursquare",2009,NA
+"159","Foursquare",2011,97
+"160","Foursquare",2012,300
+"161","Foursquare",2013,50
+"162","Foursquare",2010,NA
+"163","Global Giving",2010,88
+"164","Global Giving",2008,NA
+"165","Global Giving",2012,NA
+"166","Global Giving",2011,72
+"167","Global Giving",2009,56
+"168","Global Giving",2013,NA
+"169","Guifinet",2012,27
+"170","Guifinet",2009,57
+"171","Guifinet",2010,20
+"172","Guifinet",2011,42
+"173","Guifinet",2013,16
+"174","Guifinet",2008,NA
+"175","Huffington Post",2010,NA
+"176","Huffington Post",2008,NA
+"177","Huffington Post",2011,NA
+"178","Huffington Post",2012,26
+"179","Huffington Post",2013,NA
+"180","Huffington Post",2009,650
+"181","Instragram",2011,NA
+"182","Instragram",2008,NA
+"183","Instragram",2012,NA
+"184","Instragram",2013,NA
+"185","Instragram",2009,NA
+"186","Instragram",2010,NA
+"187","Khan Academy ",2013,6
+"188","Khan Academy ",2010,100
+"189","Khan Academy ",2011,30
+"190","Khan Academy ",2012,31
+"191","Khan Academy ",2008,NA
+"192","Khan Academy ",2009,43
+"193","Kickstarter",2012,53
+"194","Kickstarter",2013,NA
+"195","Kickstarter",2008,NA
+"196","Kickstarter",2009,NA
+"197","Kickstarter",2010,NA
+"198","Kickstarter",2011,203
+"199","Kiva ",2009,100
+"200","Kiva ",2013,22
+"201","Kiva ",2010,50
+"202","Kiva ",2008,NA
+"203","Kiva ",2011,60
+"204","Kiva ",2012,56
+"205","Layar",2008,NA
+"206","Layar",2009,NA
+"207","Layar",2010,NA
+"208","Layar",2011,NA
+"209","Layar",2012,61
+"210","Layar",2013,NA
+"211","Lendingclub",2013,NA
+"212","Lendingclub",2010,164
+"213","Lendingclub",2011,128
+"214","Lendingclub",2012,117
+"215","Lendingclub",2009,209
+"216","Lendingclub",2008,NA
+"217","LinkedIN",2008,NA
+"218","LinkedIN",2011,60
+"219","LinkedIN",2012,39
+"220","LinkedIN",2013,19
+"221","LinkedIN",2009,66
+"222","LinkedIN",2010,81
+"223","Makerbot",2008,NA
+"224","Makerbot",2012,NA
+"225","Makerbot",2013,NA
+"226","Makerbot",2009,NA
+"227","Makerbot",2010,NA
+"228","Makerbot",2011,NA
+"229","Meet Up",2009,50
+"230","Meet Up",2010,127
+"231","Meet Up",2012,NA
+"232","Meet Up",2013,150
+"233","Meet Up",2008,NA
+"234","Meet Up",2011,NA
+"235","Netflix",2012,14
+"236","Netflix",2008,NA
+"237","Netflix",2010,54
+"238","Netflix",2011,33
+"239","Netflix",2013,6
+"240","Netflix",2009,30
+"241","Odesk",2008,NA
+"242","Odesk",2012,80
+"243","Odesk",2009,260
+"244","Odesk",2010,91
+"245","Odesk",2011,74
+"246","Odesk",2013,15
+"247","Outbrain",2010,NA
+"248","Outbrain",2011,NA
+"249","Outbrain",2013,NA
+"250","Outbrain",2008,NA
+"251","Outbrain",2009,NA
+"252","Outbrain",2012,NA
+"253","Patientslikeme",2008,NA
+"254","Patientslikeme",2009,NA
+"255","Patientslikeme",2012,NA
+"256","Patientslikeme",2013,33
+"257","Patientslikeme",2010,NA
+"258","Patientslikeme",2011,NA
+"259","Pinterest",2008,NA
+"260","Pinterest",2009,NA
+"261","Pinterest",2013,26
+"262","Pinterest",2010,NA
+"263","Pinterest",2011,NA
+"264","Pinterest",2012,5528
+"265","Plos",2009,57
+"266","Plos",2010,53
+"267","Plos",2011,104
+"268","Plos",2013,184
+"269","Plos",2008,NA
+"270","Plos",2012,70
+"271","Quora",2010,NA
+"272","Quora",2013,NA
+"273","Quora",2008,NA
+"274","Quora",2009,NA
+"275","Quora",2011,77
+"276","Quora",2012,180
+"277","RenRen",2013,NA
+"278","RenRen",2010,18
+"279","RenRen",2011,46
+"280","RenRen",2012,47
+"281","RenRen",2008,NA
+"282","RenRen",2009,29
+"283","Research Gate",2011,44900
+"284","Research Gate",2012,67
+"285","Research Gate",2008,NA
+"286","Research Gate",2009,NA
+"287","Research Gate",2010,50
+"288","Research Gate",2013,11
+"289","Salesforce",2011,20
+"290","Salesforce",2009,22
+"291","Salesforce",2010,38
+"292","Salesforce",2008,NA
+"293","Salesforce",2013,NA
+"294","Salesforce",2012,NA
+"295","Shapeways",2011,300
+"296","Shapeways",2009,NA
+"297","Shapeways",2010,NA
+"298","Shapeways",2013,67
+"299","Shapeways",2008,NA
+"300","Shapeways",2012,50
+"301","Shiply",2010,NA
+"302","Shiply",2012,100
+"303","Shiply",2009,NA
+"304","Shiply",2008,NA
+"305","Shiply",2011,69
+"306","Shiply",2013,89
+"307","Shutterfly",2008,NA
+"308","Shutterfly",2009,4
+"309","Shutterfly",2010,17
+"310","Shutterfly",2011,34
+"311","Shutterfly",2012,32
+"312","Shutterfly",2013,NA
+"313","Skype",2008,NA
+"314","Skype",2009,26
+"315","Skype",2010,21
+"316","Skype",2011,NA
+"317","Skype",2012,NA
+"318","Skype",2013,NA
+"319","Sparkfun",2011,38
+"320","Sparkfun",2012,19
+"321","Sparkfun",2013,NA
+"322","Sparkfun",2009,NA
+"323","Sparkfun",2010,NA
+"324","Sparkfun",2008,NA
+"325","Spotify",2008,NA
+"326","Spotify",2012,67
+"327","Spotify",2009,NA
+"328","Spotify",2013,20
+"329","Spotify",2010,160
+"330","Spotify",2011,362
+"331","Stack Overflow",2010,114
+"332","Stack Overflow",2008,NA
+"333","Stack Overflow",2009,NA
+"334","Stack Overflow",2011,72
+"335","Stack Overflow",2013,27
+"336","Stack Overflow",2012,65
+"337","Survey Monkey",2013,27
+"338","Survey Monkey",2009,NA
+"339","Survey Monkey",2010,25
+"340","Survey Monkey",2012,28
+"341","Survey Monkey",2008,NA
+"342","Survey Monkey",2011,60
+"343","Taskrabbit",2008,NA
+"344","Taskrabbit",2011,NA
+"345","Taskrabbit",2012,67
+"346","Taskrabbit",2009,NA
+"347","Taskrabbit",2010,NA
+"348","Taskrabbit",2013,NA
+"349","TedX",2010,NA
+"350","TedX",2008,NA
+"351","TedX",2009,NA
+"352","TedX",2013,82
+"353","TedX",2011,892
+"354","TedX",2012,28
+"355","Twitter",2008,NA
+"356","Twitter",2009,NA
+"357","Twitter",2010,NA
+"358","Twitter",2011,115
+"359","Twitter",2012,143
+"360","Twitter",2013,47
+"361","Waze",2012,NA
+"362","Waze",2008,NA
+"363","Waze",2009,NA
+"364","Waze",2013,NA
+"365","Waze",2011,NA
+"366","Waze",2010,NA
+"367","We Transfer",2008,NA
+"368","We Transfer",2009,NA
+"369","We Transfer",2011,NA
+"370","We Transfer",2012,214
+"371","We Transfer",2010,NA
+"372","We Transfer",2013,NA
+"373","Whatsapp",2009,NA
+"374","Whatsapp",2008,NA
+"375","Whatsapp",2013,145
+"376","Whatsapp",2011,NA
+"377","Whatsapp",2012,1000
+"378","Whatsapp",2010,NA
+"379","Wikipedia",2008,NA
+"380","Wikipedia",2010,29
+"381","Wikipedia",2011,14
+"382","Wikipedia",2009,31
+"383","Wikipedia",2013,NA
+"384","Wikipedia",2012,12
+"385","Yammer",2008,NA
+"386","Yammer",2009,2900
+"387","Yammer",2010,167
+"388","Yammer",2011,150
+"389","Yammer",2012,65
+"390","Yammer",2013,NA
+"391","Yelp",2008,NA
+"392","Yelp",2009,125
+"393","Yelp",2012,64
+"394","Yelp",2013,17
+"395","Yelp",2010,67
+"396","Yelp",2011,47
+"397","Youtube",2008,NA
+"398","Youtube",2009,900
+"399","Youtube",2010,100
+"400","Youtube",2011,50
+"401","Youtube",2012,33
+"402","Youtube",2013,NA
+"403","ZipCar",2008,NA
+"404","ZipCar",2009,NA
+"405","ZipCar",2010,NA
+"406","ZipCar",2011,8
+"407","ZipCar",2012,10
+"408","ZipCar",2013,NA

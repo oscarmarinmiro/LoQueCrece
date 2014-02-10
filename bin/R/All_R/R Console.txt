@@ -1,0 +1,43 @@
+
+R version 2.15.2 (2012-10-26) -- "Trick or Treat"
+Copyright (C) 2012 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-apple-darwin9.8.0/x86_64 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+During startup - Warning messages:
+1: Setting LC_CTYPE failed, using "C" 
+2: Setting LC_COLLATE failed, using "C" 
+3: Setting LC_TIME failed, using "C" 
+4: Setting LC_MESSAGES failed, using "C" 
+5: Setting LC_PAPER failed, using "C" 
+[R.app GUI 1.53 (6335) x86_64-apple-darwin9.8.0]
+
+WARNING: You're using a non-UTF8 locale, therefore only ASCII characters will work.
+Please read R for Mac OS X FAQ (see Help) section 9 and adjust your system preferences accordingly.
+[History restored from /Users/oscarmarinmiro/.Rapp.history]
+
+> ls()
+[1] "air2"        "airbnbData"  "myData"      "spot2"       "spotAndAir"  "spotifyData"
+Error in browseEnv(html = F) : could not find function "invsible"
+Error in browseEnv(html = F) : could not find function "invsible"
+> source("/Users/oscarmarinmiro/Desktop/LQC_R/Question_One.txt")
+Error in source("/Users/oscarmarinmiro/Desktop/LQC_R/Question_One.txt") : 
+  /Users/oscarmarinmiro/Desktop/LQC_R/Question_One.txt:2:3: unexpected symbol
+1: 
+2: R version
+    ^
+> 

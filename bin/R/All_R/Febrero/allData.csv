@@ -1,0 +1,57 @@
+"","Company","Alpha.Revenue","Alpha.Impact","Alpha.Users","Asset.1","Asset.2","Asset.3","Asset.4","Structure","Access.1","Access.2","Access.3","Reward","Founded"
+"1","23AndMe","","0.678504778561255","0.563842431866559","New","Intangible","No economical value","Distributed","Service","PC First","No Free Use","General","Functional",2007
+"2","37signals","","0.277996882953745","","New","Intangible","No economical value","Distributed","Service","PC First","No Free Use","Specific","Functional",2000
+"3","AirBNB (2008)","1.56665905905381","2.05994053526351","1.03089526606445","Existing","Tangible","Economical Value","Distributed","Market","PC First","No Free Use","General","Functional",2009
+"4","Ancestry","0.262993919517487","0.342963905529346","0.237489516709462","Existing","Intangible","No economical value","Distributed","Platform","PC First","Partly Free","General","Symbolic",1984
+"5","Android","1.09383257114834","1.14210108741672","","New","Intangible","No economical value","Centralized","Platform","Mobile First","No Free Use","General","Experiential",2004
+"6","Arduino","","0.635013986965487","0.635013986965487","New","Tangible","Economical Value","Distributed","Platform","PC First","No Free Use","Specific","Experiential",2006
+"7","Athena Health","0.280355109116981","0.30649816772556","0.233132669667542","New","Intangible","No economical value","Centralized","Service","PC First","No Free Use","Specific","Functional",1998
+"8","BlaBlaCar (2006)","","0.832845106681946","1.68349593581358","Existing","Tangible","Economical Value","Centralized","Market","PC First","Partly Free","General","Functional",2005
+"9","Change.org","","","1.29400418206104","New","Intangible","No economical value","Distributed","Market","PC First","Completely Free","General","Symbolic",2008
+"10","Couchsurfing","","0.829179571105565","0.413142660226114","Existing","Tangible","No economical value","Centralized","Platform","PC First","Completely Free","General","Functional",2005
+"11","Crowdflower","","1.10020998412044","0.854090971803367","Existing","Intangible","Economical Value","Distributed","Market","PC First","No Free Use","General","Functional",2008
+"12","Crowdgather","1.0159991911266","","0.541539151890625","Existing","Intangible","No economical value","Distributed","Platform","PC First","Partly Free","Specific","Functional",2009
+"13","DeviantArt","","0.297061630313899","0.270562601012207","Existing","Intangible","No economical value","Centralized","Platform","PC First","Completely Free","Specific","Symbolic",2001
+"14","Docstoc","","0.361386773846517","0.847327395748153","Existing","Intangible","Economical Value","Centralized","Market","PC First","Partly Free","Specific","Functional",2008
+"15","Dropbox","","0.626381484247866","1.26345411677015","Existing","Intangible","No economical value","Distributed","Service","PC First","Partly Free","General","Functional",2008
+"16","Ebay","0.13087573841749","0.0784766954631924","","Existing","Tangible","Economical Value","Centralized","Market","PC First","Partly Free","General","Functional",1996
+"17","Elance","0.29613308468367","0.904044133518095","0.632359838213072","Existing","Intangible","Economical Value","Distributed","Market","PC First","No Free Use","Specific","Functional",1999
+"18","Etsy","0.571862567601017","0.438403361234719","0.225908554264601","Existing","Tangible","Economical Value","Distributed","Market","PC First","Partly Free","General","Functional",2006
+"19","Evernote","0.821739678607901","1.49097590485311","1.01428289462757","New","Intangible","No economical value","Centralized","Platform","PC First","Partly Free","General","Functional",2009
+"20","Facebook","0.742168543127874","0.95821247082997","0.39992740385105","New","Intangible","No economical value","Distributed","Platform","PC First","Completely Free","General","Symbolic",2005
+"21","Foursquare","","0.878885985690298","2.85995649373704","Existing","Intangible","No economical value","Distributed","Platform","Mobile First","Completely Free","General","Symbolic",2010
+"22","Global Giving","","0.387119157615312","0.438106090284059","Existing","Tangible","Economical Value","Distributed","Market","PC First","No Free Use","General","Symbolic",2004
+"23","Guifinet","","0.271361064317654","","Existing","Tangible","Economical Value","Distributed","Platform","PC First","Completely Free","General","Functional",2005
+"24","Huffington Post","","0.864590259884776","","Existing","Intangible","No economical value","Distributed","Market","PC First","Completely Free","General","Experiential",2006
+"25","Instragram","","","1.73344909752828","Existing","Intangible","No economical value","Distributed","Platform","Mobile First","Completely Free","General","Symbolic",2011
+"26","Khan Academy","","0.387280229227489","3.062027304526","New","Intangible","No economical value","Centralized","Platform","PC First","Completely Free","General","Experiential",2007
+"27","Kickstarter","1.22410072924729","","0.785183305519854","Existing","Tangible","Economical Value","Centralized","Market","PC First","No Free Use","Specific","Functional",2009
+"28","Kiva","0.219259330125871","0.442739594624141","0.290947856542504","Existing","Tangible","Economical Value","Centralized","Market","PC First","Partly Free","Specific","Functional",2006
+"29","Lendingclub","","0.928847735745876","","Existing","Tangible","Economical Value","Distributed","Market","PC First","No Free Use","Specific","Functional",2007
+"30","LinkedIN","0.649568678808074","0.440595492871191","","New","Intangible","No economical value","Centralized","Platform","PC First","Partly Free","Specific","Symbolic",2003
+"31","Makerbot","","","0.436734208299096","New","Tangible","Economical Value","Distributed","Service","PC First","No Free Use","General","Functional",2010
+"32","Meet Up","","0.364127348053853","0.391578571753666","Existing","Intangible","No economical value","Distributed","Platform","PC First","Partly Free","General","Symbolic",2003
+"33","Netflix","0.259680103798623","0.245920663775795","0.323856364076428","Existing","Intangible","Economical Value","Distributed","Service","PC First","No Free Use","General","Experiential",1998
+"34","Odesk","0.60268518001383","0.66457845484364","","Existing","Intangible","Economical Value","Distributed","Market","PC First","Partly Free","Specific","Functional",2006
+"35","Patientslikeme","","","0.436489416701955","New","Intangible","No economical value","Distributed","Platform","PC First","Completely Free","Specific","Symbolic",2005
+"36","Plos","0.424370408834511","0.616700635785402","","New","Intangible","No economical value","Distributed","Platform","PC First","Partly Free","Specific","Symbolic",2007
+"37","Quirky","","1.45236033469515","1.10427807167322","New","Tangible","Economical Value","Distributed","Platform","PC First","Completely Free","General","Functional",2010
+"38","Research Gate","","2.08818708671234","0.761105483100621","New","Intangible","No economical value","Distributed","Platform","PC First","Partly Free","Specific","Symbolic",2009
+"39","Salesforce","0.265914385523111","0.241377564189086","0.38930795131021","New","Intangible","No economical value","Distributed","Service","PC First","No Free Use","Specific","Functional",2000
+"40","Shapeways","","0.821353416444132","1.57518043974246","Existing","Tangible","Economical Value","Distributed","Platform","PC First","Partly Free","General","Functional",2008
+"41","Shiply","","0.649382548077965","0.766989533102913","Existing","Tangible","Economical Value","Centralized","Market","PC First","No Free Use","Specific","Functional",2009
+"42","Shutterfly","0.285037905656951","0.198402901437842","0.235411638229089","New","Tangible","No economical value","Distributed","Service","PC First","No Free Use","General","Functional",2000
+"43","Skype","0.321300473508403","0.208446901965913","","New","Intangible","No economical value","Distributed","","PC First","Partly Free","General","Functional",2006
+"44","Sparkfun","0.365586860444046","","","Existing","Tangible","Economical Value","Centralized","Service","PC First","No Free Use","Specific","Functional",2004
+"45","Spotify","1.10452230470552","0.839632848922258","0.315743454314526","Existing","Intangible","Economical Value","Centralized","Service","PC First","Partly Free","General","Experiential",2007
+"46","Stack Overflow","","0.513720416562481","","New","Intangible","No economical value","Centralized","Platform","PC First","Completely Free","Specific","Symbolic",2009
+"47","Survey Monkey","","0.307025980053948","0.445898767581008","New","Intangible","No economical value","Distributed","Market","PC First","Partly Free","Specific","Functional",2000
+"48","TedX","","","0.690775527898223","Existing","Intangible","No economical value","Centralized","Platform","PC First","Partly Free","General","Symbolic",2010
+"49","Twitter","","1.21951504883872","0.569000646433783","New","Intangible","No economical value","Distributed","Platform","PC First","Completely Free","General","Symbolic",2007
+"50","Waze","","","1.92770391351041","Existing","Intangible","No economical value","Distributed","Platform","Mobile First","Completely Free","Specific","Functional",2008
+"51","Whatsapp","","","1.67327406033636","New","Intangible","No economical value","Distributed","","Mobile First","No Free Use","General","Functional",2010
+"52","Wikipedia","0.443440028497411","0.187365507224263","0.123054455490112","Existing","Intangible","No economical value","Distributed","Platform","PC First","Completely Free","General","Functional",2002
+"53","Yammer","1.38440980548162","1.34953052938071","0.911077517862397","New","Intangible","No economical value","Distributed","Platform","PC First","No Free Use","Specific","Symbolic",2009
+"54","Yelp","0.602671701824613","0.481746901101943","0.392440489060718","Existing","Intangible","No economical value","Distributed","Market","PC First","Completely Free","General","Symbolic",2005
+"55","Youtube","","0.847637119689606","0.592508791388096","Existing","Intangible","No economical value","Distributed","Platform","PC First","Completely Free","General","Symbolic",2006
+"56","ZipCar","0.254611118633324","0.066921479421266","0.26405245368151","New","Tangible","Economical Value","Centralized","Service","PC First","No Free Use","General","Functional",2001

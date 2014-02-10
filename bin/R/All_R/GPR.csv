@@ -1,0 +1,427 @@
+Company,Year,Users,Impact,Revenue
+Instragram,2008,0,0,0
+Instragram,2009,0,0,0
+Instragram,2010,0,0,0
+Instragram,2011,4,0,0
+Instragram,2012,4,0,0
+Instragram,2013,2,0,0
+Spotify,2008,0,0,0
+Spotify,2009,0,0,0
+Spotify,2010,2,4,4
+Spotify,2011,2,4,4
+Spotify,2012,2,3,4
+Spotify,2013,1,1,0
+Quora,2008,0,0,0
+Quora,2009,0,0,0
+Quora,2010,0,0,0
+Quora,2011,4,4,0
+Quora,2012,0,4,0
+Quora,2013,0,0,0
+Evernote,2008,0,0,0
+Evernote,2009,4,4,0
+Evernote,2010,4,4,1
+Evernote,2011,4,4,3
+Evernote,2012,4,4,4
+Evernote,2013,2,0,0
+Research Gate,2008,0,0,0
+Research Gate,2009,0,0,0
+Research Gate,2010,4,2,0
+Research Gate,2011,4,4,0
+Research Gate,2012,3,3,0
+Research Gate,2013,1,1,0
+Plos,2008,0,0,0
+Plos,2009,0,2,2
+Plos,2010,0,2,2
+Plos,2011,0,4,3
+Plos,2012,0,3,0
+Plos,2013,0,4,0
+Pinterest,2008,0,0,0
+Pinterest,2009,0,0,0
+Pinterest,2010,0,0,0
+Pinterest,2011,0,0,0
+Pinterest,2012,4,4,0
+Pinterest,2013,2,1,0
+RenRen,2008,0,0,0
+RenRen,2009,4,1,4
+RenRen,2010,1,1,3
+RenRen,2011,1,2,2
+RenRen,2012,1,2,2
+RenRen,2013,1,1,0
+Wikipedia,2008,0,0,0
+Wikipedia,2009,0,1,1
+Wikipedia,2010,1,1,3
+Wikipedia,2011,1,1,2
+Wikipedia,2012,1,1,2
+Wikipedia,2013,0,0,0
+Crowdflower,2008,0,0,0
+Crowdflower,2009,0,0,0
+Crowdflower,2010,4,4,0
+Crowdflower,2011,4,4,0
+Crowdflower,2012,3,4,0
+Crowdflower,2013,3,4,0
+Alpe d'Huzes,2008,0,0,0
+Alpe d'Huzes,2009,4,0,3
+Alpe d'Huzes,2010,4,0,4
+Alpe d'Huzes,2011,1,0,3
+Alpe d'Huzes,2012,2,0,3
+Alpe d'Huzes,2013,0,0,0
+Stack Overflow,2008,0,0,0
+Stack Overflow,2009,0,0,0
+Stack Overflow,2010,0,4,0
+Stack Overflow,2011,0,3,0
+Stack Overflow,2012,0,3,0
+Stack Overflow,2013,0,1,0
+Foursquare,2008,0,0,0
+Foursquare,2009,0,0,0
+Foursquare,2010,4,0,0
+Foursquare,2011,4,3,0
+Foursquare,2012,3,4,0
+Foursquare,2013,3,2,0
+AirBNB (2008),2008,0,0,0
+AirBNB (2008),2009,0,4,4
+AirBNB (2008),2010,4,4,4
+AirBNB (2008),2011,4,4,4
+AirBNB (2008),2012,4,4,4
+AirBNB (2008),2013,2,0,0
+Guifinet,2008,0,0,0
+Guifinet,2009,0,2,0
+Guifinet,2010,0,1,0
+Guifinet,2011,0,2,0
+Guifinet,2012,0,1,0
+Guifinet,2013,0,1,0
+We Transfer,2008,0,0,0
+We Transfer,2009,0,0,0
+We Transfer,2010,0,0,0
+We Transfer,2011,0,0,0
+We Transfer,2012,0,4,4
+We Transfer,2013,0,0,0
+Crowdgather,2008,0,0,0
+Crowdgather,2009,0,0,0
+Crowdgather,2010,3,4,4
+Crowdgather,2011,4,4,4
+Crowdgather,2012,3,1,1
+Crowdgather,2013,1,1,0
+Whatsapp,2008,0,0,0
+Whatsapp,2009,0,0,0
+Whatsapp,2010,4,0,0
+Whatsapp,2011,4,0,0
+Whatsapp,2012,4,4,0
+Whatsapp,2013,2,4,0
+Fon ,2008,0,0,0
+Fon ,2009,0,4,0
+Fon ,2010,0,4,4
+Fon ,2011,4,1,0
+Fon ,2012,0,1,0
+Fon ,2013,0,0,0
+Elance,2008,0,0,0
+Elance,2009,0,0,2
+Elance,2010,3,2,1
+Elance,2011,1,4,1
+Elance,2012,2,4,1
+Elance,2013,2,3,0
+Waze,2008,0,0,0
+Waze,2009,0,0,0
+Waze,2010,4,0,0
+Waze,2011,4,0,0
+Waze,2012,4,0,0
+Waze,2013,2,0,0
+Kiva ,2008,0,0,0
+Kiva ,2009,0,4,1
+Kiva ,2010,2,2,1
+Kiva ,2011,1,2,1
+Kiva ,2012,3,2,1
+Kiva ,2013,1,1,0
+Docstoc,2008,0,0,0
+Docstoc,2009,0,0,0
+Docstoc,2010,3,4,0
+Docstoc,2011,4,2,0
+Docstoc,2012,4,1,0
+Docstoc,2013,1,0,0
+Meet Up,2008,0,0,0
+Meet Up,2009,4,2,0
+Meet Up,2010,2,4,0
+Meet Up,2011,1,0,0
+Meet Up,2012,1,0,0
+Meet Up,2013,1,0,0
+Kickstarter,2008,0,0,0
+Kickstarter,2009,0,0,0
+Kickstarter,2010,0,0,0
+Kickstarter,2011,4,4,4
+Kickstarter,2012,2,2,4
+Kickstarter,2013,0,0,0
+Khan Academy ,2008,0,0,0
+Khan Academy ,2009,0,2,0
+Khan Academy ,2010,0,4,0
+Khan Academy ,2011,4,1,0
+Khan Academy ,2012,3,1,0
+Khan Academy ,2013,0,1,0
+Athena Health,2008,0,0,0
+Athena Health,2009,1,3,1
+Athena Health,2010,0,1,1
+Athena Health,2011,2,1,1
+Athena Health,2012,1,1,1
+Athena Health,2013,0,0,0
+LinkedIN,2008,0,0,0
+LinkedIN,2009,3,3,2
+LinkedIN,2010,4,3,4
+LinkedIN,2011,2,2,4
+LinkedIN,2012,2,1,3
+LinkedIN,2013,1,1,0
+Baidu,2008,0,0,0
+Baidu,2009,0,1,1
+Baidu,2010,0,1,3
+Baidu,2011,0,1,3
+Baidu,2012,3,1,2
+Baidu,2013,2,2,0
+Arduino,2008,0,0,0
+Arduino,2009,3,3,0
+Arduino,2010,1,1,0
+Arduino,2011,4,3,0
+Arduino,2012,3,4,2
+Arduino,2013,4,0,0
+Global Giving,2008,0,0,0
+Global Giving,2009,3,2,1
+Global Giving,2010,3,3,2
+Global Giving,2011,4,3,2
+Global Giving,2012,0,0,0
+Global Giving,2013,0,0,0
+Ancestry,2008,0,0,0
+Ancestry,2009,1,0,1
+Ancestry,2010,1,2,1
+Ancestry,2011,1,1,2
+Ancestry,2012,2,2,1
+Ancestry,2013,0,0,0
+Facebook,2008,0,0,0
+Facebook,2009,4,4,4
+Facebook,2010,4,3,4
+Facebook,2011,4,1,3
+Facebook,2012,4,1,1
+Facebook,2013,0,1,0
+Odesk,2008,0,0,0
+Odesk,2009,2,4,2
+Odesk,2010,4,3,3
+Odesk,2011,1,3,3
+Odesk,2012,4,3,4
+Odesk,2013,0,1,0
+Lendingclub,2008,0,0,0
+Lendingclub,2009,0,4,0
+Lendingclub,2010,0,4,0
+Lendingclub,2011,0,4,0
+Lendingclub,2012,0,4,0
+Lendingclub,2013,0,0,0
+Dropbox,2008,0,0,0
+Dropbox,2009,4,0,0
+Dropbox,2010,4,0,0
+Dropbox,2011,4,0,4
+Dropbox,2012,4,4,4
+Dropbox,2013,3,3,0
+Quirky ,2008,0,0,0
+Quirky ,2009,0,0,0
+Quirky ,2010,0,0,0
+Quirky ,2011,4,3,4
+Quirky ,2012,4,4,4
+Quirky ,2013,3,4,0
+Etsy,2008,0,0,0
+Etsy,2009,0,0,4
+Etsy,2010,4,0,3
+Etsy,2011,2,0,3
+Etsy,2012,4,0,3
+Etsy,2013,1,1,0
+Shiply,2008,0,0,0
+Shiply,2009,0,0,0
+Shiply,2010,4,0,4
+Shiply,2011,3,3,0
+Shiply,2012,4,4,0
+Shiply,2013,3,1,0
+Yammer,2008,0,0,0
+Yammer,2009,4,4,4
+Yammer,2010,2,4,4
+Yammer,2011,4,4,4
+Yammer,2012,3,3,4
+Yammer,2013,1,0,0
+Survey Monkey,2008,0,0,0
+Survey Monkey,2009,0,0,0
+Survey Monkey,2010,4,1,3
+Survey Monkey,2011,3,2,0
+Survey Monkey,2012,2,1,4
+Survey Monkey,2013,1,1,0
+Salesforce,2008,0,0,0
+Salesforce,2009,3,1,2
+Salesforce,2010,1,1,1
+Salesforce,2011,2,1,1
+Salesforce,2012,3,0,1
+Salesforce,2013,0,0,0
+Yelp,2008,0,0,0
+Yelp,2009,3,4,4
+Yelp,2010,3,3,3
+Yelp,2011,3,2,3
+Yelp,2012,2,3,3
+Yelp,2013,3,1,0
+Netflix,2008,0,0,0
+Netflix,2009,1,1,1
+Netflix,2010,3,2,1
+Netflix,2011,1,1,2
+Netflix,2012,1,1,1
+Netflix,2013,0,1,0
+BlaBlaCar (2006),2008,0,0,0
+BlaBlaCar (2006),2009,4,0,0
+BlaBlaCar (2006),2010,4,0,0
+BlaBlaCar (2006),2011,4,4,0
+BlaBlaCar (2006),2012,4,2,1
+BlaBlaCar (2006),2013,0,1,0
+Couchsurfing,2008,0,0,0
+Couchsurfing,2009,0,3,0
+Couchsurfing,2010,4,0,4
+Couchsurfing,2011,1,0,0
+Couchsurfing,2012,1,0,0
+Couchsurfing,2013,0,0,0
+Youtube,2008,0,0,0
+Youtube,2009,2,4,0
+Youtube,2010,4,4,0
+Youtube,2011,3,2,0
+Youtube,2012,0,1,0
+Youtube,2013,0,1,0
+Ebay,2008,0,0,0
+Ebay,2009,0,1,4
+Ebay,2010,0,1,3
+Ebay,2011,0,1,3
+Ebay,2012,0,1,3
+Ebay,2013,0,0,0
+TedX,2008,0,0,0
+TedX,2009,4,0,0
+TedX,2010,1,0,0
+TedX,2011,4,4,0
+TedX,2012,4,1,0
+TedX,2013,0,3,0
+Sparkfun,2008,0,0,0
+Sparkfun,2009,0,0,4
+Sparkfun,2010,0,0,1
+Sparkfun,2011,0,1,1
+Sparkfun,2012,0,1,1
+Sparkfun,2013,0,0,0
+Shapeways,2008,0,0,0
+Shapeways,2009,0,0,0
+Shapeways,2010,4,0,0
+Shapeways,2011,4,4,0
+Shapeways,2012,4,2,0
+Shapeways,2013,1,3,0
+Makerbot,2008,0,0,0
+Makerbot,2009,0,0,0
+Makerbot,2010,2,0,0
+Makerbot,2011,2,0,0
+Makerbot,2012,3,0,2
+Makerbot,2013,0,0,0
+23AndMe,2008,0,0,0
+23AndMe,2009,0,0,0
+23AndMe,2010,0,0,0
+23AndMe,2011,2,2,0
+23AndMe,2012,3,4,0
+23AndMe,2013,3,4,0
+37signals,2008,0,0,0
+37signals,2009,0,1,0
+37signals,2010,0,3,0
+37signals,2011,0,1,0
+37signals,2012,0,1,0
+37signals,2013,0,0,0
+Huffington Post,2008,0,0,0
+Huffington Post,2009,0,4,0
+Huffington Post,2010,0,0,4
+Huffington Post,2011,0,0,1
+Huffington Post,2012,0,1,0
+Huffington Post,2013,0,0,0
+Android ,2008,0,0,0
+Android ,2009,0,0,0
+Android ,2010,0,4,0
+Android ,2011,4,4,4
+Android ,2012,4,1,4
+Android ,2013,3,4,0
+Change.org,2008,0,0,0
+Change.org,2009,0,0,0
+Change.org,2010,4,0,0
+Change.org,2011,4,0,0
+Change.org,2012,4,4,0
+Change.org,2013,4,3,0
+Carpooling.com,2008,0,0,0
+Carpooling.com,2009,0,0,0
+Carpooling.com,2010,0,0,0
+Carpooling.com,2011,0,0,0
+Carpooling.com,2012,1,0,0
+Carpooling.com,2013,1,0,0
+Outbrain,2008,0,0,0
+Outbrain,2009,0,0,0
+Outbrain,2010,0,0,0
+Outbrain,2011,0,0,0
+Outbrain,2012,0,0,0
+Outbrain,2013,0,0,0
+Twitter,2008,0,0,0
+Twitter,2009,0,0,0
+Twitter,2010,0,0,4
+Twitter,2011,4,4,4
+Twitter,2012,2,4,4
+Twitter,2013,2,4,0
+Hoote Suite,2008,0,0,0
+Hoote Suite,2009,0,0,0
+Hoote Suite,2010,4,0,0
+Hoote Suite,2011,4,0,0
+Hoote Suite,2012,3,0,4
+Hoote Suite,2013,2,0,0
+Taskrabbit,2008,0,0,0
+Taskrabbit,2009,0,0,0
+Taskrabbit,2010,0,0,0
+Taskrabbit,2011,4,0,0
+Taskrabbit,2012,4,3,0
+Taskrabbit,2013,0,0,0
+8Coupon,2008,0,0,0
+8Coupon,2009,4,4,0
+8Coupon,2010,1,4,0
+8Coupon,2011,4,4,0
+8Coupon,2012,0,0,0
+8Coupon,2013,0,0,0
+Patientslikeme,2008,0,0,0
+Patientslikeme,2009,3,0,0
+Patientslikeme,2010,1,0,0
+Patientslikeme,2011,3,0,0
+Patientslikeme,2012,3,0,0
+Patientslikeme,2013,1,2,0
+Causes,2008,0,0,0
+Causes,2009,4,0,0
+Causes,2010,3,0,0
+Causes,2011,1,0,0
+Causes,2012,1,0,0
+Causes,2013,1,0,0
+Skype,2008,0,0,0
+Skype,2009,1,1,1
+Skype,2010,1,1,1
+Skype,2011,0,0,0
+Skype,2012,0,0,0
+Skype,2013,0,3,0
+Alibaba Group,2008,0,0,0
+Alibaba Group,2009,1,2,0
+Alibaba Group,2010,1,0,3
+Alibaba Group,2011,1,0,3
+Alibaba Group,2012,0,0,3
+Alibaba Group,2013,0,0,0
+DeviantArt,2008,0,0,0
+DeviantArt,2009,2,3,0
+DeviantArt,2010,1,3,0
+DeviantArt,2011,1,1,0
+DeviantArt,2012,1,1,0
+DeviantArt,2013,1,1,0
+ZipCar,2008,0,0,0
+ZipCar,2009,0,0,1
+ZipCar,2010,4,0,2
+ZipCar,2011,1,0,1
+ZipCar,2012,1,4,1
+ZipCar,2013,1,0,0
+Shutterfly,2008,0,0,0
+Shutterfly,2009,1,1,1
+Shutterfly,2010,1,1,1
+Shutterfly,2011,1,1,2
+Shutterfly,2012,1,1,1
+Shutterfly,2013,0,0,0
+Layar,2008,0,0,0
+Layar,2009,0,0,0
+Layar,2010,0,0,0
+Layar,2011,0,0,0
+Layar,2012,0,3,0
+Layar,2013,0,0,0

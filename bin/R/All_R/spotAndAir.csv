@@ -1,0 +1,13 @@
+"","X","Company","Year","UsersPattern","UsersAbsolute","UsersRelative","ImpactPattern","ImpactAbsolute","ImpactRelative","RevenuePattern","RevenueAbsolute","RevenueRelative","X.1","Description","Company.ID.Number","CrowdSourced","Centralized","Money","Property","Knowledge","Services","Media","Data","Relationships","Service","Market","Platform","Commons","Redistribution","Breaktrough","Producer"
+"23",23,"AirBNB (2008)",2008,NA,NA,NA,NA,180,NA,NA,160,NA,9,"Tourism / Hospitality",10,1,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0
+"21",21,"AirBNB (2008)",2009,NA,10,NA,4,105,58233,4,1e+06,525,9,"Tourism / Hospitality",10,1,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0
+"22",22,"AirBNB (2008)",2010,4,25,150,4,525,400,4,5300000,430,9,"Tourism / Hospitality",10,1,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0
+"19",19,"AirBNB (2008)",2011,4,100,300,4,3100000,490,4,3.4e+07,542,9,"Tourism / Hospitality",10,1,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0
+"24",24,"AirBNB (2008)",2012,4,300,200,4,1e+07,223,4,1.9e+08,459,9,"Tourism / Hospitality",10,1,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0
+"20",20,"AirBNB (2008)",2013,2,500,50,NA,NA,NA,NA,NA,NA,9,"Tourism / Hospitality",10,1,0,0,1,0,0,0,0,1,0,1,1,0,1,0,0
+"325",325,"Spotify",2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,"Online Music Service",15,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+"327",327,"Spotify",2009,NA,7e+06,NA,NA,250,NA,NA,1.7e+07,100,14,"Online Music Service",15,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+"329",329,"Spotify",2010,2,1e+07,43,4,650,160,4,99100000,483,14,"Online Music Service",15,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+"330",330,"Spotify",2011,2,1.5e+07,50,4,3e+06,362,4,2.44e+08,150,14,"Online Music Service",15,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+"326",326,"Spotify",2012,2,2e+07,50,3,5e+06,67,4,5e+08,105,14,"Online Music Service",15,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
+"328",328,"Spotify",2013,1,2.4e+07,20,1,6e+06,20,NA,NA,NA,14,"Online Music Service",15,1,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0
