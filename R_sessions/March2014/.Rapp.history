@@ -1,0 +1,182 @@
+load("/Users/Oscar/Desktop/LQC_R/December/impactFit.RData")
+# load nice data and impactpattern, and tags (excluding CrowdSourced)#
+#
+# http://www.statmethods.net/advstats/factor.html#
+#
+myData = read.csv("PGC_V2.csv")#
+lm.out <- lm(Alpha.Revenue~Wave, data = myData)#
+print(summary(lm.out))
+# load nice data and impactpattern, and tags (excluding CrowdSourced)#
+#
+# http://www.statmethods.net/advstats/factor.html#
+#
+myData = read.csv("PGC_V2.csv")#
+#
+print(myData)#
+#lm.out <- lm(Alpha.Revenue~Wave, data = myData)#
+#print(summary(lm.out))
+# load nice data and impactpattern, and tags (excluding CrowdSourced)#
+#
+# http://www.statmethods.net/advstats/factor.html#
+#
+myData = read.csv("PGC_V2.csv")#
+#
+print(myData)#
+#lm.out <- lm(Alpha.Revenue~Wave, data = myData)#
+#print(summary(lm.out))
+# load nice data and impactpattern, and tags (excluding CrowdSourced)#
+#
+# http://www.statmethods.net/advstats/factor.html#
+#
+myData = read.csv("PGC_V2.csv")#
+#
+print(myData)#
+lm.out <- lm(Alpha.Revenue~Wave, data = myData)#
+#print(summary(lm.out))
+# load nice data and impactpattern, and tags (excluding CrowdSourced)#
+#
+# http://www.statmethods.net/advstats/factor.html#
+#
+myData = read.csv("PGC_V2.csv")#
+#
+print(myData)#
+lm.out <- lm(Alpha.Revenue~Wave, data = myData)#
+print(summary(lm.out))
+# load nice data and impactpattern, and tags (excluding CrowdSourced)#
+#
+# http://www.statmethods.net/advstats/factor.html#
+#
+myData = read.csv("PGC_V2.csv")#
+#
+print(myData)#
+lm.out <- lm(Alpha.Revenue~Connect+Collect+Empower, data = myData)#
+print(summary(lm.out))
+# load nice data and impactpattern, and tags (excluding CrowdSourced)#
+#
+# http://www.statmethods.net/advstats/factor.html#
+#
+myData = read.csv("PGC_V2.csv")#
+#
+print(myData)#
+lm.out <- lm(Alpha.Revenue~Connect+Collect+Empower+Enable+Share, data = myData)#
+print(summary(lm.out))
+# load nice data and impactpattern, and tags (excluding CrowdSourced)#
+#
+# http://www.statmethods.net/advstats/factor.html#
+#
+myData = read.csv("PGC_V2.csv")#
+#
+print(myData)#
+#lm.out <- lm(Alpha.Revenue~Connect+Collect+Empower+Enable+Share, data = myData)#
+#
+lm.out <- lm(Alpha.Revenue~Enable, data = myData)#
+print(summary(lm.out))
+# load nice data and impactpattern, and tags (excluding CrowdSourced)#
+#
+# http://www.statmethods.net/advstats/factor.html#
+#
+myData = read.csv("PGC_V2.csv")#
+#
+print(myData)#
+#lm.out <- lm(Alpha.Revenue~Connect+Collect+Empower+Enable+Share, data = myData)#
+#
+lm.out <- lm(Alpha.Revenue~Enable, data = myData)#
+print(summary(lm.out))#
+#
+cor.test(Alpha.Revenue,Enable data = myData)
+# load nice data and impactpattern, and tags (excluding CrowdSourced)#
+#
+# http://www.statmethods.net/advstats/factor.html#
+#
+myData = read.csv("PGC_V2.csv")#
+#
+print(myData)#
+#lm.out <- lm(Alpha.Revenue~Connect+Collect+Empower+Enable+Share, data = myData)#
+#
+lm.out <- lm(Alpha.Revenue~Enable, data = myData)#
+print(summary(lm.out))#
+#
+cor.test(Alpha.Revenue,Enable,data = myData)
+# load nice data and impactpattern, and tags (excluding CrowdSourced)#
+#
+# http://www.statmethods.net/advstats/factor.html#
+#
+myData = read.csv("PGC_V2.csv")#
+#
+print(myData)#
+#lm.out <- lm(Alpha.Revenue~Connect+Collect+Empower+Enable+Share, data = myData)#
+#
+lm.out <- lm(Alpha.Revenue~Enable, data = myData)#
+print(summary(lm.out))#
+#
+attach(myData)#
+#
+cor.test(Alpha.Revenue,Enable)
+# load nice data and impactpattern, and tags (excluding CrowdSourced)#
+#
+# http://www.statmethods.net/advstats/factor.html#
+#
+myData = read.csv("PGC_V2.csv")#
+#
+myData = myData[myData$Wave==1,]#
+#
+print(myData)#
+#lm.out <- lm(Alpha.Revenue~Connect+Collect+Empower+Enable+Share, data = myData)#
+#
+lm.out <- lm(Alpha.Revenue~Enable, data = myData)#
+print(summary(lm.out))#
+#
+attach(myData)#
+#
+cor.test(Alpha.Revenue,Enable)
+# load nice data and impactpattern, and tags (excluding CrowdSourced)#
+#
+# http://www.statmethods.net/advstats/factor.html#
+#
+myData = read.csv("PGC_V2.csv")#
+#
+myData = myData[myData$Wave==1,]#
+#
+print(myData)#
+#lm.out <- lm(Alpha.Revenue~Connect+Collect+Empower+Enable+Share, data = myData)#
+#
+lm.out <- lm(Alpha.Users~Enable, data = myData)#
+print(summary(lm.out))#
+#
+attach(myData)#
+#
+cor.test(Alpha.Revenue,Enable)
+# load nice data and impactpattern, and tags (excluding CrowdSourced)#
+#
+# http://www.statmethods.net/advstats/factor.html#
+#
+myData = read.csv("PGC_V2.csv")#
+#
+myData = myData[myData$Wave==1,]#
+#
+print(myData)#
+lm.out <- lm(Alpha.Revenue~Share, data = myData)#
+#
+#lm.out <- lm(Alpha.Users~Enable, data = myData)#
+print(summary(lm.out))#
+#
+attach(myData)#
+#
+cor.test(Alpha.Revenue,Enable)
+# load nice data and impactpattern, and tags (excluding CrowdSourced)#
+#
+# http://www.statmethods.net/advstats/factor.html#
+#
+myData = read.csv("PGC_V2.csv")#
+#
+myData = myData[myData$Wave==1,]#
+#
+print(myData)#
+lm.out <- lm(Alpha.Revenue~Share, data = myData)#
+#
+#lm.out <- lm(Alpha.Users~Enable, data = myData)#
+print(summary(lm.out))#
+#
+attach(myData)#
+#
+cor.test(Alpha.Revenue,Share)
