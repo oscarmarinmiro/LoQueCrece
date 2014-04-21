@@ -2,10 +2,10 @@ library(corrgram)
 
 # load nice data and impactpattern, and tags (excluding CrowdSourced)
 
-myData = read.csv("pentaSpeed.csv")
+myData = read.csv("pentaData.csv")
 
 
-corrData = myData[,c(4,5,6,7,8,13,14,15)]
+corrData = myData[myData$Era==3,c(4:13)]
 # corrData
 
 corrMatrix = cor(corrData, use="complete.obs", method="kendall")
