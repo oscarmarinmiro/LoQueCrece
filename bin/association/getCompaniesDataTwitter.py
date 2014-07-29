@@ -16,13 +16,13 @@ KEY_FILE = "../../data/companyNamesTuned.txt"
 
 # Go to http://dev.twitter.com and create an app.
 # The consumer key and secret will be generated for you after
-consumer_key="e3IZVUnTQJzvYRUUK00DA"
-consumer_secret="ZetmYzr0fqF9dsnhtev9NnHCoEgXHMXqpWXrZXkSKQ"
+consumer_key="blah"
+consumer_secret="blah"
 
 # After the step above, you will be redirected to your app's page.
 # Create an access token under the the "Your access token" section
-access_token="289284899-7mfLx489YHvmrOwwLf1089FqxmT4Z8CUMJMpimN1"
-access_token_secret="Y0boIbUsTzLfO7ghDMODtccYXA6GkylhpHUkHLA8CzUkq"
+access_token="blah"
+access_token_secret="blah"
 
 
 
